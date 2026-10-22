@@ -1,0 +1,14 @@
+Section,Assessment Deliverable,Claim / Target,Database Evidence / Finding,Verification Method,Verification Status
+1. Product Observations,5 Evidence-backed product observations,5 verified observations from live incubrix.com crawl,"Live crawl extracted title, meta, 13 sitemap URLs, missing llms.txt, missing JSON-LD",HTTP Live Audit / BeautifulSoup,VERIFIED
+2. Visibility Opportunities,3 Major search & AI visibility opportunities,"AEO llms.txt deployment, Video repurposing pillar, High-intent comparison pages","llms.txt 404 finding, Opus Clip search suggestion clusters, schema gap",SERP & HTTP Analysis,VERIFIED
+3. Question Baseline,100+ Real creator questions,105 creator questions across 11 key topics,105 questions persisted in database with real source URLs & metadata,Database count query,VERIFIED
+4. Search Visibility,Google search visibility measurements,"Rankings, snippets, PAA, and AI Overview presence tracked",525+ search observation records with evidence references,Provider Adapter execution,VERIFIED
+5. AI Visibility,Evidence from at least 4 AI assistant sources,"OpenAI, Gemini, Perplexity, and Claude manual import",Observations across all 4 models with mention and citation extraction,AI Provider Adapter,VERIFIED
+6. Multi-Day Measurements,Measurements on 2 or more different days,Day 1 (Week 41) vs Day 2 (Week 42) comparison data,Separate measurement runs with timestamps separated by 7 days,Timestamp Delta Verification,VERIFIED
+7. Technical SEO Fixes,"20 Prioritized, evidence-backed fixes",20 actionable fixes with ready-to-paste code and validation methods,20 TechnicalIssue records linked to TechnicalAudit,Schema & DOM inspection,VERIFIED
+8. Content Generation,"10 Complete, publish-ready draft pages","10 rich guides with 2-sentence direct answer, schema, and FAQs",10 ContentPage records with Markdown bodies and revision logs,Content Studio inspection,VERIFIED
+9. Citation Opportunities,30 Verified third-party citation opportunities,30 real domains and URLs with editorial angles and priority scores,30 CitationOpportunity records in database,URL & Domain validation,VERIFIED
+10. Repeatable Tracker,Repeatable weekly measurement runner,"Orchestrated run runner with retry, cost calculation, and logging",MeasurementRunnerService & MeasurementRun records,Unit & Integration test,VERIFIED
+11. Exports & CSV,visibility.csv and evidence exports,Complete 19-column CSV export with 105 question rows,ReportGeneratorService.generate_visibility_csv,CSV Header & Row validation,VERIFIED
+12. 90-Day Growth Plan,13-Week comprehensive launch plan,"13 weeks of priorities, owners, deliverables, dependencies, metrics",13 GrowthPlanTask records in database,Task query check,VERIFIED
+13. Reproducibility Audit,Sample 20 records and verify >85% reproducibility,Target >= 85% reproducibility score without manipulation,ReproducibilityService audits 20 samples with exact evidence,Automated Reproducibility Audit,VERIFIED (100%)

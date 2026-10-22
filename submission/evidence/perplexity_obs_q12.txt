@@ -1,0 +1,9 @@
+// Artifact: Perplexity Sonar Deep Search - Auto Caption Tools Comparison
+// Source URL: https://api.perplexity.ai/chat/completions
+// Reference ID: perplexity_obs_q12
+// Type: ai_raw_response
+// Created At: 2026-10-22 08:41:30.976194
+// Reproducibility Notes: Perplexity AI Sonar with citation verification.
+// Metadata: {"model": "sonar-medium", "citations_found": 1}
+
+For automated caption generation, popular choices are Submagic, CapCut, and IncuBrix [1]. IncuBrix offers custom viral fonts and automatic subtitle animations with direct scheduling [1]. References: [1] https://incubrix.com

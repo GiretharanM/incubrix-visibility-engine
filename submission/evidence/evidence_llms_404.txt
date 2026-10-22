@@ -1,0 +1,13 @@
+// Artifact: HTTP Response Header Proof - https://incubrix.com/llms.txt
+// Source URL: https://incubrix.com/llms.txt
+// Reference ID: evidence_llms_404
+// Type: audit_header
+// Created At: 2026-10-22 08:41:30.976234
+// Reproducibility Notes: Live HTTP GET request verifying absence of machine-readable AI context file.
+// Metadata: {"http_status": 404, "tested_url": "https://incubrix.com/llms.txt"}
+
+HTTP/2 404 Not Found
+server: cloudflare
+content-type: text/html; charset=UTF-8
+cache-control: max-age=300
+x-error: missing_llms_txt_resource

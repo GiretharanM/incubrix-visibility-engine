@@ -1,0 +1,21 @@
+id,issue_title,severity,category,affected_url,validation_status,validation_method
+2008f7de-a839-4ef9-ba58-e881408a7095,Missing Preconnect Resource Hints for Web Fonts and CDN Assets,medium,performance,https://incubrix.com/,open,Lighthouse Performance audit preconnect check
+2057d9ef-6ce8-4688-a9e5-5fd311c5faab,Touch Target Sizes Below 48px on Mobile Navigation Elements,medium,mobile,https://incubrix.com/,open,Google Mobile-Friendly Test & Chrome DevTools Touch Target Audit
+2c3c4fdc-4201-4541-b192-277dbfe19aa1,Waitlist Page Title Missing Primary Brand Benefit,medium,metadata,https://incubrix.com/waitlist,open,Live HTML inspection
+2ff64435-ec19-49ca-bb30-afb1c75a08fa,Missing AboutPage Schema and Founder Entity Linking,medium,structured_data,https://incubrix.com/about,open,Schema.org validator
+7b995f12-dd46-44bd-bf68-a78d17308d17,Twitter Card Tags Lack Summary_Large_Image Declaration,medium,metadata,https://incubrix.com/,open,Twitter/X Card Validator inspection
+8c0122dc-1e79-42a1-9c33-90ef3aaeeb15,Missing Descriptive Alt Text on Product Feature Screenshots,medium,content,https://incubrix.com/,open,HTML accessibility linter & DOM tree audit
+adf124e2-e606-4d39-bfe4-8eae23d3248a,Sitemap Missing lastmod Timestamps on Core URLs,medium,crawlability,https://incubrix.com/sitemap.xml,open,XML parser validation of sitemap.xml
+b06cdda0-a5c2-4220-af7e-57bb5cce2d85,Missing Person Schema on Leadership Team Profiles,medium,structured_data,https://incubrix.com/team,open,Schema.org validator on /team
+bdfcd770-4fa1-450f-b7f0-3b805944cc46,Open Graph Image Missing Explicit Width and Height Dimensions,medium,metadata,https://incubrix.com/,open,Facebook Sharing Debugger & LinkedIn Post Inspector
+12854fa4-8deb-49db-aa0a-09c7f317a8bf,Manifesto Page Lacks Clear Internal Navigation Links to Core Product,low,crawlability,https://incubrix.com/manifesto,open,Internal link crawler equity check
+4e7ec770-add3-49cc-8c0a-14b742068e9a,Careers Page Missing JobPosting Structured Data,low,metadata,https://incubrix.com/careers,open,Google for Jobs schema test
+ebe2e867-600d-404c-bab6-2d535c9bdb76,Legal Pages Missing robots noindex Directive Consideration,low,metadata,https://incubrix.com/terms,open,Sitemap priority inspection
+187fde9a-b2a5-458f-8973-ecd3ca06b5e6,Missing FAQPage Schema Markup on FAQ URL,high,structured_data,https://incubrix.com/faq,open,Google Rich Results Test inspection on /faq
+23a492bb-4927-4c4b-af0b-7701d0094585,Missing Product and Offer Structured Data on Pricing Page,high,structured_data,https://incubrix.com/pricing,open,Rich Results Test for Product Rich Snippets
+39f97504-3787-4bc6-893a-46b104744687,Missing HowTo Structured Data on Workflow Explanation Page,high,structured_data,https://incubrix.com/how-it-works,open,Schema.org validator on /how-it-works
+6ebdfc34-3a12-4c52-8676-c3066349b4ef,Missing Direct Answer Sentence for AEO on Primary Value Proposition,high,content,https://incubrix.com/,open,AI assistant brand mention test on 'What is IncuBrix?'
+c6c12532-2840-40dc-baaa-892f7d6f58ae,Content-Security-Policy Missing Explicit frame-ancestors Directive,high,security,https://incubrix.com/,open,HTTP response headers check
+e5662fa8-3be4-4906-9540-bc8972698070,Pricing Page Meta Description Missing Clear Pricing Thresholds,high,metadata,https://incubrix.com/pricing,open,SERP snippet simulator and SERP CTR tracking
+0f83cf35-84d0-47a1-af59-c474a5be8b26,Missing llms.txt File for Generative AI Engine Optimization (AEO),critical,crawlability,https://incubrix.com/llms.txt,in_progress,HTTP GET request to https://incubrix.com/llms.txt expecting HTTP 200 with text/markdown
+122c0370-2c86-43ff-96fd-6b77c88c964f,Missing Organization & SoftwareApplication JSON-LD Schema on Homepage,critical,structured_data,https://incubrix.com/,open,Validate via Google Rich Results Test API & Schema Validator

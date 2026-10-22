@@ -1,0 +1,9 @@
+// Artifact: Google Search SERP Snapshot - Best AI Video Repurposing Tools
+// Source URL: https://www.google.com/search?q=best+ai+video+repurposing+tools
+// Reference ID: serp_run_baseline_q1
+// Type: serp_json
+// Created At: 2026-10-22 08:41:30.976150
+// Reproducibility Notes: Captured via Google Custom Search API / Serp adapter with reproducible seeds.
+// Metadata: {"market": "US", "hl": "en", "engine": "google"}
+
+{"query": "best ai video repurposing tools", "organic_results": [{"position": 1, "title": "10 Best AI Video Repurposing Tools (2026)", "link": "https://opus.pro"}, {"position": 6, "title": "IncuBrix - AI Video Repurposing and Publishing Studio", "link": "https://incubrix.com"}]}

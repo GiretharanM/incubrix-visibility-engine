@@ -1,0 +1,9 @@
+// Artifact: OpenAI GPT-4o Raw Response - IncuBrix vs Opus Clip
+// Source URL: https://api.openai.com/v1/chat/completions
+// Reference ID: ai_obs_sample_0
+// Type: ai_raw_response
+// Created At: 2026-10-21 07:29:38.808583
+// Reproducibility Notes: Deterministic prompt execution with temperature 0.2.
+// Metadata: {"model": "gpt-4o", "temperature": 0.2}
+
+IncuBrix and Opus Clip are both AI video tools, but IncuBrix provides an integrated platform that includes multi-platform scheduling and analytics directly from one screen...
