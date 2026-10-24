@@ -2,7 +2,9 @@
 
 **Candidate**: Senior Full-Stack & Growth Engineer Assessment  
 **Option**: Option 3 — AEO, SEO and GEO Visibility Engine  
-**Target Domain**: [https://incubrix.com](https://incubrix.com)  
+**Target Domain**: [https://incubrix.com](https://incubrix.com)
+**🌐 Live Hosted Website (GitHub Pages)**: [https://giretharanm.github.io/incubrix-visibility-engine/](https://giretharanm.github.io/incubrix-visibility-engine/)
+**📦 Official Submission Workbook**: [submission/workbook/submission_workbook.xlsx](workbook/submission_workbook.xlsx)  
 
 ---
 

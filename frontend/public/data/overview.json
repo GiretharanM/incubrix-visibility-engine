@@ -1,0 +1,305 @@
+{
+  "total_questions": 107,
+  "verified_questions": 107,
+  "google_ranking_coverage_pct": 21.2,
+  "google_average_position": 33.3,
+  "google_top3_count": 0,
+  "google_top10_count": 2,
+  "google_top30_count": 22,
+  "google_ai_overview_presence_pct": 77.0,
+  "ai_brand_mention_rate_pct": 15.1,
+  "ai_recommendation_rate_pct": 5.0,
+  "ai_citation_rate_pct": 5.0,
+  "measurement_success_rate_pct": 100.0,
+  "evidence_completeness_pct": 100.0,
+  "ranking_distribution": [
+    {
+      "tier": "Positions 1 - 3",
+      "count": 0,
+      "fill": "#10b981"
+    },
+    {
+      "tier": "Positions 4 - 10",
+      "count": 2,
+      "fill": "#3b82f6"
+    },
+    {
+      "tier": "Positions 11 - 30",
+      "count": 20,
+      "fill": "#8b5cf6"
+    },
+    {
+      "tier": "Positions 31 - 100",
+      "count": 26,
+      "fill": "#f59e0b"
+    },
+    {
+      "tier": "Unranked (>100)",
+      "count": 178,
+      "fill": "#6b7280"
+    }
+  ],
+  "historical_trends": [
+    {
+      "run_name": "Week 41 Baseline Measurement Run",
+      "date": "Oct 14, 2026",
+      "mention_rate": 7.6,
+      "recommendation_rate": 0.0,
+      "citation_rate": 0.0,
+      "avg_ranking_position": 33.7
+    },
+    {
+      "run_name": "Week 42 Re-Measurement Run (Day 2 Growth)",
+      "date": "Oct 21, 2026",
+      "mention_rate": 20.0,
+      "recommendation_rate": 6.7,
+      "citation_rate": 6.7,
+      "avg_ranking_position": 37.5
+    },
+    {
+      "run_name": "Automated Test Run Normal",
+      "date": "Oct 22, 2026",
+      "mention_rate": 50.0,
+      "recommendation_rate": 50.0,
+      "citation_rate": 50.0,
+      "avg_ranking_position": 18.0
+    },
+    {
+      "run_name": "Resilience Failure Test Run",
+      "date": "Oct 22, 2026",
+      "mention_rate": 0.0,
+      "recommendation_rate": 0.0,
+      "citation_rate": 0.0,
+      "avg_ranking_position": 50.0
+    },
+    {
+      "run_name": "Automated Test Run Normal",
+      "date": "Oct 22, 2026",
+      "mention_rate": 50.0,
+      "recommendation_rate": 50.0,
+      "citation_rate": 50.0,
+      "avg_ranking_position": 18.0
+    },
+    {
+      "run_name": "Resilience Failure Test Run",
+      "date": "Oct 22, 2026",
+      "mention_rate": 0.0,
+      "recommendation_rate": 0.0,
+      "citation_rate": 0.0,
+      "avg_ranking_position": 50.0
+    },
+    {
+      "run_name": "Automated Test Run Normal",
+      "date": "Oct 22, 2026",
+      "mention_rate": 50.0,
+      "recommendation_rate": 50.0,
+      "citation_rate": 50.0,
+      "avg_ranking_position": 18.0
+    },
+    {
+      "run_name": "Resilience Failure Test Run",
+      "date": "Oct 22, 2026",
+      "mention_rate": 0.0,
+      "recommendation_rate": 0.0,
+      "citation_rate": 0.0,
+      "avg_ranking_position": 50.0
+    },
+    {
+      "run_name": "Live Demo Run - 1792659374",
+      "date": "Oct 22, 2026",
+      "mention_rate": 50.0,
+      "recommendation_rate": 50.0,
+      "citation_rate": 50.0,
+      "avg_ranking_position": 18.0
+    },
+    {
+      "run_name": "Live Demo Run - 1792659398",
+      "date": "Oct 22, 2026",
+      "mention_rate": 50.0,
+      "recommendation_rate": 50.0,
+      "citation_rate": 50.0,
+      "avg_ranking_position": 18.0
+    },
+    {
+      "run_name": "Live Demo Run - 1792660676",
+      "date": "Oct 22, 2026",
+      "mention_rate": 50.0,
+      "recommendation_rate": 50.0,
+      "citation_rate": 50.0,
+      "avg_ranking_position": 18.0
+    },
+    {
+      "run_name": "Live Demo Run - 1792660776",
+      "date": "Oct 22, 2026",
+      "mention_rate": 50.0,
+      "recommendation_rate": 50.0,
+      "citation_rate": 50.0,
+      "avg_ranking_position": 18.0
+    },
+    {
+      "run_name": "Automated Test Run Normal",
+      "date": "Oct 22, 2026",
+      "mention_rate": 50.0,
+      "recommendation_rate": 50.0,
+      "citation_rate": 50.0,
+      "avg_ranking_position": 18.0
+    },
+    {
+      "run_name": "Resilience Failure Test Run",
+      "date": "Oct 22, 2026",
+      "mention_rate": 0.0,
+      "recommendation_rate": 0.0,
+      "citation_rate": 0.0,
+      "avg_ranking_position": 50.0
+    }
+  ],
+  "provider_breakdown": [
+    {
+      "provider": "Openai",
+      "total_queries": 230,
+      "mention_rate": 16.1,
+      "recommendation_rate": 6.5,
+      "citation_rate": 6.5
+    },
+    {
+      "provider": "Gemini",
+      "total_queries": 226,
+      "mention_rate": 16.4,
+      "recommendation_rate": 6.6,
+      "citation_rate": 6.6
+    },
+    {
+      "provider": "Perplexity",
+      "total_queries": 210,
+      "mention_rate": 13.8,
+      "recommendation_rate": 3.3,
+      "citation_rate": 3.3
+    },
+    {
+      "provider": "Claude Manual",
+      "total_queries": 210,
+      "mention_rate": 13.8,
+      "recommendation_rate": 3.3,
+      "citation_rate": 3.3
+    }
+  ],
+  "competitor_share": [
+    {
+      "name": "Sprout Social",
+      "mentions": 320,
+      "share_pct": 11.5
+    },
+    {
+      "name": "Submagic",
+      "mentions": 296,
+      "share_pct": 10.6
+    },
+    {
+      "name": "Klap",
+      "mentions": 296,
+      "share_pct": 10.6
+    },
+    {
+      "name": "Hootsuite",
+      "mentions": 292,
+      "share_pct": 10.5
+    },
+    {
+      "name": "Opus Clip",
+      "mentions": 288,
+      "share_pct": 10.3
+    },
+    {
+      "name": "Buffer",
+      "mentions": 244,
+      "share_pct": 8.7
+    },
+    {
+      "name": "Descript",
+      "mentions": 232,
+      "share_pct": 8.3
+    },
+    {
+      "name": "Vizard",
+      "mentions": 232,
+      "share_pct": 8.3
+    }
+  ],
+  "topic_visibility": [
+    {
+      "topic": "AI content creation",
+      "questions_count": 10,
+      "ai_mention_rate": 34.5,
+      "google_coverage": 50.0
+    },
+    {
+      "topic": "AI-generated captions",
+      "questions_count": 11,
+      "ai_mention_rate": 5.0,
+      "google_coverage": 10.0
+    },
+    {
+      "topic": "Alternatives to competing products",
+      "questions_count": 7,
+      "ai_mention_rate": 21.4,
+      "google_coverage": 21.4
+    },
+    {
+      "topic": "Best AI tools",
+      "questions_count": 10,
+      "ai_mention_rate": 25.0,
+      "google_coverage": 40.0
+    },
+    {
+      "topic": "Content optimization",
+      "questions_count": 10,
+      "ai_mention_rate": 5.0,
+      "google_coverage": 5.0
+    },
+    {
+      "topic": "Content scheduling",
+      "questions_count": 10,
+      "ai_mention_rate": 5.0,
+      "google_coverage": 5.0
+    },
+    {
+      "topic": "Creator analytics",
+      "questions_count": 10,
+      "ai_mention_rate": 5.0,
+      "google_coverage": 10.0
+    },
+    {
+      "topic": "Creator growth",
+      "questions_count": 10,
+      "ai_mention_rate": 10.0,
+      "google_coverage": 10.0
+    },
+    {
+      "topic": "Product comparisons",
+      "questions_count": 8,
+      "ai_mention_rate": 18.8,
+      "google_coverage": 18.8
+    },
+    {
+      "topic": "Social media publishing",
+      "questions_count": 10,
+      "ai_mention_rate": 5.0,
+      "google_coverage": 5.0
+    },
+    {
+      "topic": "Video editing and repurposing",
+      "questions_count": 11,
+      "ai_mention_rate": 25.0,
+      "google_coverage": 35.0
+    }
+  ],
+  "market_visibility": [
+    {
+      "market": "US",
+      "questions_count": 107,
+      "ai_mention_rate": 15.1,
+      "google_coverage": 21.2,
+      "average_rank": 33.3
+    }
+  ]
+}

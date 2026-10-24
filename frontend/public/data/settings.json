@@ -1,0 +1,9 @@
+{
+  "openai_configured": true,
+  "gemini_configured": true,
+  "perplexity_configured": true,
+  "search_api_configured": true,
+  "pagespeed_configured": true,
+  "target_website": "https://incubrix.com",
+  "app_version": "1.0.0 (GitHub Pages Live Static Edition)"
+}
