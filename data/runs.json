@@ -1,0 +1,336 @@
+[
+  {
+    "id": "4d24ecf0-99e2-443e-afca-82d12fa25d24",
+    "run_name": "Resilience Failure Test Run",
+    "status": "partial",
+    "start_time": "2026-10-22T09:20:04.980065",
+    "end_time": "2026-10-22T09:20:05.020224",
+    "market": "US",
+    "questions_count": 1,
+    "successful_measurements": 1,
+    "failed_measurements": 1,
+    "skipped_measurements": 0,
+    "estimated_cost_usd": 0.02,
+    "configuration_snapshot": {
+      "search_provider": "mock",
+      "ai_providers": [
+        "openai"
+      ],
+      "market": "US",
+      "target_questions_count": 1
+    },
+    "error_details": null,
+    "created_at": "2026-10-22T09:20:04.981129"
+  },
+  {
+    "id": "3608480a-0546-4ffa-a814-e7fa6df19123",
+    "run_name": "Automated Test Run Normal",
+    "status": "completed",
+    "start_time": "2026-10-22T09:20:04.646864",
+    "end_time": "2026-10-22T09:20:04.717787",
+    "market": "US",
+    "questions_count": 2,
+    "successful_measurements": 6,
+    "failed_measurements": 0,
+    "skipped_measurements": 0,
+    "estimated_cost_usd": 0.07,
+    "configuration_snapshot": {
+      "search_provider": "mock",
+      "ai_providers": [
+        "openai",
+        "gemini"
+      ],
+      "market": "US",
+      "target_questions_count": 2
+    },
+    "error_details": null,
+    "created_at": "2026-10-22T09:20:04.651196"
+  },
+  {
+    "id": "9ba40d6e-eecf-4531-b9e3-aa10e846560a",
+    "run_name": "Live Demo Run - 1792660776",
+    "status": "completed",
+    "start_time": "2026-10-22T09:19:36.895470",
+    "end_time": "2026-10-22T09:19:36.932952",
+    "market": "US",
+    "questions_count": 2,
+    "successful_measurements": 6,
+    "failed_measurements": 0,
+    "skipped_measurements": 0,
+    "estimated_cost_usd": 0.07,
+    "configuration_snapshot": {
+      "search_provider": "mock",
+      "ai_providers": [
+        "openai",
+        "gemini"
+      ],
+      "market": "US",
+      "target_questions_count": 2
+    },
+    "error_details": null,
+    "created_at": "2026-10-22T09:19:36.899991"
+  },
+  {
+    "id": "56ba04dd-8c96-4263-9054-3d9f260bd8a5",
+    "run_name": "Live Demo Run - 1792660676",
+    "status": "completed",
+    "start_time": "2026-10-22T09:17:56.656754",
+    "end_time": "2026-10-22T09:17:56.741591",
+    "market": "US",
+    "questions_count": 2,
+    "successful_measurements": 6,
+    "failed_measurements": 0,
+    "skipped_measurements": 0,
+    "estimated_cost_usd": 0.07,
+    "configuration_snapshot": {
+      "search_provider": "mock",
+      "ai_providers": [
+        "openai",
+        "gemini"
+      ],
+      "market": "US",
+      "target_questions_count": 2
+    },
+    "error_details": null,
+    "created_at": "2026-10-22T09:17:56.696684"
+  },
+  {
+    "id": "b4ad6a9e-9608-4b0f-844d-3ab3d05382e9",
+    "run_name": "Live Demo Run - 1792659398",
+    "status": "completed",
+    "start_time": "2026-10-22T08:56:38.891748",
+    "end_time": "2026-10-22T08:56:38.906614",
+    "market": "US",
+    "questions_count": 2,
+    "successful_measurements": 6,
+    "failed_measurements": 0,
+    "skipped_measurements": 0,
+    "estimated_cost_usd": 0.07,
+    "configuration_snapshot": {
+      "search_provider": "mock",
+      "ai_providers": [
+        "openai",
+        "gemini"
+      ],
+      "market": "US",
+      "target_questions_count": 2
+    },
+    "error_details": null,
+    "created_at": "2026-10-22T08:56:38.892987"
+  },
+  {
+    "id": "d500d657-02d6-4e8a-9a6d-d585dfd82ca1",
+    "run_name": "Live Demo Run - 1792659374",
+    "status": "completed",
+    "start_time": "2026-10-22T08:56:14.404486",
+    "end_time": "2026-10-22T08:56:14.547408",
+    "market": "US",
+    "questions_count": 2,
+    "successful_measurements": 6,
+    "failed_measurements": 0,
+    "skipped_measurements": 0,
+    "estimated_cost_usd": 0.07,
+    "configuration_snapshot": {
+      "search_provider": "mock",
+      "ai_providers": [
+        "openai",
+        "gemini"
+      ],
+      "market": "US",
+      "target_questions_count": 2
+    },
+    "error_details": null,
+    "created_at": "2026-10-22T08:56:14.465640"
+  },
+  {
+    "id": "ea4ab611-425c-4893-a504-d95af097a3d7",
+    "run_name": "Resilience Failure Test Run",
+    "status": "partial",
+    "start_time": "2026-10-22T08:43:26.867043",
+    "end_time": "2026-10-22T08:43:26.901490",
+    "market": "US",
+    "questions_count": 1,
+    "successful_measurements": 1,
+    "failed_measurements": 1,
+    "skipped_measurements": 0,
+    "estimated_cost_usd": 0.02,
+    "configuration_snapshot": {
+      "search_provider": "mock",
+      "ai_providers": [
+        "openai"
+      ],
+      "market": "US",
+      "target_questions_count": 1
+    },
+    "error_details": null,
+    "created_at": "2026-10-22T08:43:26.867829"
+  },
+  {
+    "id": "cb1208c8-a16b-41a7-b67c-36aa5d89908a",
+    "run_name": "Automated Test Run Normal",
+    "status": "completed",
+    "start_time": "2026-10-22T08:43:26.779222",
+    "end_time": "2026-10-22T08:43:26.805102",
+    "market": "US",
+    "questions_count": 2,
+    "successful_measurements": 6,
+    "failed_measurements": 0,
+    "skipped_measurements": 0,
+    "estimated_cost_usd": 0.07,
+    "configuration_snapshot": {
+      "search_provider": "mock",
+      "ai_providers": [
+        "openai",
+        "gemini"
+      ],
+      "market": "US",
+      "target_questions_count": 2
+    },
+    "error_details": null,
+    "created_at": "2026-10-22T08:43:26.782412"
+  },
+  {
+    "id": "798a9a78-23e8-4c91-9c27-262b8143c1de",
+    "run_name": "Resilience Failure Test Run",
+    "status": "partial",
+    "start_time": "2026-10-22T08:42:25.802132",
+    "end_time": "2026-10-22T08:42:25.830053",
+    "market": "US",
+    "questions_count": 1,
+    "successful_measurements": 1,
+    "failed_measurements": 1,
+    "skipped_measurements": 0,
+    "estimated_cost_usd": 0.02,
+    "configuration_snapshot": {
+      "search_provider": "mock",
+      "ai_providers": [
+        "openai"
+      ],
+      "market": "US",
+      "target_questions_count": 1
+    },
+    "error_details": null,
+    "created_at": "2026-10-22T08:42:25.802613"
+  },
+  {
+    "id": "5975f80d-d138-4a72-935c-dd172ac6c408",
+    "run_name": "Automated Test Run Normal",
+    "status": "completed",
+    "start_time": "2026-10-22T08:42:25.736806",
+    "end_time": "2026-10-22T08:42:25.757242",
+    "market": "US",
+    "questions_count": 2,
+    "successful_measurements": 6,
+    "failed_measurements": 0,
+    "skipped_measurements": 0,
+    "estimated_cost_usd": 0.07,
+    "configuration_snapshot": {
+      "search_provider": "mock",
+      "ai_providers": [
+        "openai",
+        "gemini"
+      ],
+      "market": "US",
+      "target_questions_count": 2
+    },
+    "error_details": null,
+    "created_at": "2026-10-22T08:42:25.739162"
+  },
+  {
+    "id": "66b5bbba-3503-4e0a-ac33-135d221f2b9f",
+    "run_name": "Resilience Failure Test Run",
+    "status": "partial",
+    "start_time": "2026-10-22T08:37:33.883323",
+    "end_time": "2026-10-22T08:37:33.914077",
+    "market": "US",
+    "questions_count": 1,
+    "successful_measurements": 1,
+    "failed_measurements": 1,
+    "skipped_measurements": 0,
+    "estimated_cost_usd": 0.02,
+    "configuration_snapshot": {
+      "search_provider": "mock",
+      "ai_providers": [
+        "openai"
+      ],
+      "market": "US",
+      "target_questions_count": 1
+    },
+    "error_details": null,
+    "created_at": "2026-10-22T08:37:33.884025"
+  },
+  {
+    "id": "809049fa-00be-46e5-a34e-7b5f8ff1a63b",
+    "run_name": "Automated Test Run Normal",
+    "status": "completed",
+    "start_time": "2026-10-22T08:37:33.799538",
+    "end_time": "2026-10-22T08:37:33.819398",
+    "market": "US",
+    "questions_count": 2,
+    "successful_measurements": 6,
+    "failed_measurements": 0,
+    "skipped_measurements": 0,
+    "estimated_cost_usd": 0.07,
+    "configuration_snapshot": {
+      "search_provider": "mock",
+      "ai_providers": [
+        "openai",
+        "gemini"
+      ],
+      "market": "US",
+      "target_questions_count": 2
+    },
+    "error_details": null,
+    "created_at": "2026-10-22T08:37:33.801723"
+  },
+  {
+    "id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "run_name": "Week 42 Re-Measurement Run (Day 2 Growth)",
+    "status": "completed",
+    "start_time": "2026-10-21T07:29:38.719208",
+    "end_time": "2026-10-21T07:41:38.719208",
+    "market": "US",
+    "questions_count": 105,
+    "successful_measurements": 525,
+    "failed_measurements": 0,
+    "skipped_measurements": 0,
+    "estimated_cost_usd": 8.15,
+    "configuration_snapshot": {
+      "search_provider": "google_search",
+      "ai_providers": [
+        "openai",
+        "gemini",
+        "perplexity",
+        "claude_manual"
+      ],
+      "market": "US"
+    },
+    "error_details": null,
+    "created_at": "2026-10-21T07:29:38.720109"
+  },
+  {
+    "id": "b6578e4b-f0f7-4e2c-9ff5-41202eb271c2",
+    "run_name": "Week 41 Baseline Measurement Run",
+    "status": "completed",
+    "start_time": "2026-10-14T07:29:38.719208",
+    "end_time": "2026-10-14T07:43:38.719208",
+    "market": "US",
+    "questions_count": 105,
+    "successful_measurements": 525,
+    "failed_measurements": 0,
+    "skipped_measurements": 0,
+    "estimated_cost_usd": 8.4,
+    "configuration_snapshot": {
+      "search_provider": "google_search",
+      "ai_providers": [
+        "openai",
+        "gemini",
+        "perplexity",
+        "claude_manual"
+      ],
+      "market": "US"
+    },
+    "error_details": null,
+    "created_at": "2026-10-21T07:29:38.720104"
+  }
+]

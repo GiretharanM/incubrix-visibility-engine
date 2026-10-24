@@ -1,0 +1,4598 @@
+[
+  {
+    "id": "a6ccb712-0802-4ef2-83dd-14a68d376157",
+    "question_id": "fc9ee55c-699f-4edb-9361-54b7789394c7",
+    "measurement_run_id": "3608480a-0546-4ffa-a814-e7fa6df19123",
+    "search_provider": "mock",
+    "query": "How do AI content creation tools work for solo creators?",
+    "observed_at": "2026-10-22T09:20:04.752961",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://opus.pro",
+      "https://descript.com"
+    ],
+    "competitors_found": [
+      "Opus Clip",
+      "Descript"
+    ],
+    "raw_response": {
+      "organic_results_count": 10,
+      "ai_overview_present": true,
+      "provider": "google_search_engine"
+    },
+    "evidence_reference": "serp_run_3608480a-0546-4ffa-a814-e7fa6df19123_fc9ee5",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "485cefad-494a-4512-b477-7ff77acfbd59",
+    "question_id": "ef5e6277-4e93-45f8-a14b-9a5e9daa3d3a",
+    "measurement_run_id": "3608480a-0546-4ffa-a814-e7fa6df19123",
+    "search_provider": "mock",
+    "query": "What is the best AI tool to turn long videos into viral shorts?",
+    "observed_at": "2026-10-22T09:20:04.752934",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": 18,
+    "has_featured_snippet": true,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": true,
+    "result_title": "How to Turn Long YouTube Videos into Viral Shorts | IncuBrix",
+    "result_url": "https://incubrix.com/resources/how-to-turn-long-videos-into-viral-shorts",
+    "result_snippet": "To turn long YouTube videos into viral Shorts and Reels, identify high-retention clips, reframe to 9:16 vertical...",
+    "cited_sources": [
+      "https://incubrix.com/resources/how-to-turn-long-videos-into-viral-shorts"
+    ],
+    "competitors_found": [
+      "Opus Clip",
+      "Descript"
+    ],
+    "raw_response": {
+      "organic_results_count": 10,
+      "ai_overview_present": true,
+      "provider": "google_search_engine"
+    },
+    "evidence_reference": "serp_run_3608480a-0546-4ffa-a814-e7fa6df19123_ef5e62",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "0590787e-b58c-44bc-8059-bc487d5ae2e9",
+    "question_id": "fc9ee55c-699f-4edb-9361-54b7789394c7",
+    "measurement_run_id": "9ba40d6e-eecf-4531-b9e3-aa10e846560a",
+    "search_provider": "mock",
+    "query": "How do AI content creation tools work for solo creators?",
+    "observed_at": "2026-10-22T09:19:36.942876",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://opus.pro",
+      "https://descript.com"
+    ],
+    "competitors_found": [
+      "Opus Clip",
+      "Descript"
+    ],
+    "raw_response": {
+      "organic_results_count": 10,
+      "ai_overview_present": true,
+      "provider": "google_search_engine"
+    },
+    "evidence_reference": "serp_run_9ba40d6e-eecf-4531-b9e3-aa10e846560a_fc9ee5",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "55c729f2-7a24-449c-a6b0-899348760b47",
+    "question_id": "ef5e6277-4e93-45f8-a14b-9a5e9daa3d3a",
+    "measurement_run_id": "9ba40d6e-eecf-4531-b9e3-aa10e846560a",
+    "search_provider": "mock",
+    "query": "What is the best AI tool to turn long videos into viral shorts?",
+    "observed_at": "2026-10-22T09:19:36.942856",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": 18,
+    "has_featured_snippet": true,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": true,
+    "result_title": "How to Turn Long YouTube Videos into Viral Shorts | IncuBrix",
+    "result_url": "https://incubrix.com/resources/how-to-turn-long-videos-into-viral-shorts",
+    "result_snippet": "To turn long YouTube videos into viral Shorts and Reels, identify high-retention clips, reframe to 9:16 vertical...",
+    "cited_sources": [
+      "https://incubrix.com/resources/how-to-turn-long-videos-into-viral-shorts"
+    ],
+    "competitors_found": [
+      "Opus Clip",
+      "Descript"
+    ],
+    "raw_response": {
+      "organic_results_count": 10,
+      "ai_overview_present": true,
+      "provider": "google_search_engine"
+    },
+    "evidence_reference": "serp_run_9ba40d6e-eecf-4531-b9e3-aa10e846560a_ef5e62",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "a7df6e63-244d-4f56-bdb7-7c097212abf9",
+    "question_id": "fc9ee55c-699f-4edb-9361-54b7789394c7",
+    "measurement_run_id": "56ba04dd-8c96-4263-9054-3d9f260bd8a5",
+    "search_provider": "mock",
+    "query": "How do AI content creation tools work for solo creators?",
+    "observed_at": "2026-10-22T09:17:56.830938",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://opus.pro",
+      "https://descript.com"
+    ],
+    "competitors_found": [
+      "Opus Clip",
+      "Descript"
+    ],
+    "raw_response": {
+      "organic_results_count": 10,
+      "ai_overview_present": true,
+      "provider": "google_search_engine"
+    },
+    "evidence_reference": "serp_run_56ba04dd-8c96-4263-9054-3d9f260bd8a5_fc9ee5",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "99fd1af0-919c-4a48-bd33-10af5ae2f5db",
+    "question_id": "ef5e6277-4e93-45f8-a14b-9a5e9daa3d3a",
+    "measurement_run_id": "56ba04dd-8c96-4263-9054-3d9f260bd8a5",
+    "search_provider": "mock",
+    "query": "What is the best AI tool to turn long videos into viral shorts?",
+    "observed_at": "2026-10-22T09:17:56.830909",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": 18,
+    "has_featured_snippet": true,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": true,
+    "result_title": "How to Turn Long YouTube Videos into Viral Shorts | IncuBrix",
+    "result_url": "https://incubrix.com/resources/how-to-turn-long-videos-into-viral-shorts",
+    "result_snippet": "To turn long YouTube videos into viral Shorts and Reels, identify high-retention clips, reframe to 9:16 vertical...",
+    "cited_sources": [
+      "https://incubrix.com/resources/how-to-turn-long-videos-into-viral-shorts"
+    ],
+    "competitors_found": [
+      "Opus Clip",
+      "Descript"
+    ],
+    "raw_response": {
+      "organic_results_count": 10,
+      "ai_overview_present": true,
+      "provider": "google_search_engine"
+    },
+    "evidence_reference": "serp_run_56ba04dd-8c96-4263-9054-3d9f260bd8a5_ef5e62",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "5484f633-feee-4026-aa5a-8cbf01b98d17",
+    "question_id": "fc9ee55c-699f-4edb-9361-54b7789394c7",
+    "measurement_run_id": "b4ad6a9e-9608-4b0f-844d-3ab3d05382e9",
+    "search_provider": "mock",
+    "query": "How do AI content creation tools work for solo creators?",
+    "observed_at": "2026-10-22T08:56:38.914847",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://opus.pro",
+      "https://descript.com"
+    ],
+    "competitors_found": [
+      "Opus Clip",
+      "Descript"
+    ],
+    "raw_response": {
+      "organic_results_count": 10,
+      "ai_overview_present": true,
+      "provider": "google_search_engine"
+    },
+    "evidence_reference": "serp_run_b4ad6a9e-9608-4b0f-844d-3ab3d05382e9_fc9ee5",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "1567e087-7cf0-4b8a-85aa-3fa81fc6fa1d",
+    "question_id": "ef5e6277-4e93-45f8-a14b-9a5e9daa3d3a",
+    "measurement_run_id": "b4ad6a9e-9608-4b0f-844d-3ab3d05382e9",
+    "search_provider": "mock",
+    "query": "What is the best AI tool to turn long videos into viral shorts?",
+    "observed_at": "2026-10-22T08:56:38.914827",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": 18,
+    "has_featured_snippet": true,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": true,
+    "result_title": "How to Turn Long YouTube Videos into Viral Shorts | IncuBrix",
+    "result_url": "https://incubrix.com/resources/how-to-turn-long-videos-into-viral-shorts",
+    "result_snippet": "To turn long YouTube videos into viral Shorts and Reels, identify high-retention clips, reframe to 9:16 vertical...",
+    "cited_sources": [
+      "https://incubrix.com/resources/how-to-turn-long-videos-into-viral-shorts"
+    ],
+    "competitors_found": [
+      "Opus Clip",
+      "Descript"
+    ],
+    "raw_response": {
+      "organic_results_count": 10,
+      "ai_overview_present": true,
+      "provider": "google_search_engine"
+    },
+    "evidence_reference": "serp_run_b4ad6a9e-9608-4b0f-844d-3ab3d05382e9_ef5e62",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "7e98d156-863d-40dc-8aed-2c146195b35c",
+    "question_id": "fc9ee55c-699f-4edb-9361-54b7789394c7",
+    "measurement_run_id": "d500d657-02d6-4e8a-9a6d-d585dfd82ca1",
+    "search_provider": "mock",
+    "query": "How do AI content creation tools work for solo creators?",
+    "observed_at": "2026-10-22T08:56:14.581699",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://opus.pro",
+      "https://descript.com"
+    ],
+    "competitors_found": [
+      "Opus Clip",
+      "Descript"
+    ],
+    "raw_response": {
+      "organic_results_count": 10,
+      "ai_overview_present": true,
+      "provider": "google_search_engine"
+    },
+    "evidence_reference": "serp_run_d500d657-02d6-4e8a-9a6d-d585dfd82ca1_fc9ee5",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "29a6646d-e786-4a5f-bb49-129526f3dc89",
+    "question_id": "ef5e6277-4e93-45f8-a14b-9a5e9daa3d3a",
+    "measurement_run_id": "d500d657-02d6-4e8a-9a6d-d585dfd82ca1",
+    "search_provider": "mock",
+    "query": "What is the best AI tool to turn long videos into viral shorts?",
+    "observed_at": "2026-10-22T08:56:14.581671",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": 18,
+    "has_featured_snippet": true,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": true,
+    "result_title": "How to Turn Long YouTube Videos into Viral Shorts | IncuBrix",
+    "result_url": "https://incubrix.com/resources/how-to-turn-long-videos-into-viral-shorts",
+    "result_snippet": "To turn long YouTube videos into viral Shorts and Reels, identify high-retention clips, reframe to 9:16 vertical...",
+    "cited_sources": [
+      "https://incubrix.com/resources/how-to-turn-long-videos-into-viral-shorts"
+    ],
+    "competitors_found": [
+      "Opus Clip",
+      "Descript"
+    ],
+    "raw_response": {
+      "organic_results_count": 10,
+      "ai_overview_present": true,
+      "provider": "google_search_engine"
+    },
+    "evidence_reference": "serp_run_d500d657-02d6-4e8a-9a6d-d585dfd82ca1_ef5e62",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "2292cf69-aa3b-4fe9-8ecd-a65c0692097f",
+    "question_id": "fc9ee55c-699f-4edb-9361-54b7789394c7",
+    "measurement_run_id": "cb1208c8-a16b-41a7-b67c-36aa5d89908a",
+    "search_provider": "mock",
+    "query": "How do AI content creation tools work for solo creators?",
+    "observed_at": "2026-10-22T08:43:26.820157",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://opus.pro",
+      "https://descript.com"
+    ],
+    "competitors_found": [
+      "Opus Clip",
+      "Descript"
+    ],
+    "raw_response": {
+      "organic_results_count": 10,
+      "ai_overview_present": true,
+      "provider": "google_search_engine"
+    },
+    "evidence_reference": "serp_run_cb1208c8-a16b-41a7-b67c-36aa5d89908a_fc9ee5",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "75408b51-45d6-49a0-ba05-c886575a47d2",
+    "question_id": "ef5e6277-4e93-45f8-a14b-9a5e9daa3d3a",
+    "measurement_run_id": "cb1208c8-a16b-41a7-b67c-36aa5d89908a",
+    "search_provider": "mock",
+    "query": "What is the best AI tool to turn long videos into viral shorts?",
+    "observed_at": "2026-10-22T08:43:26.820125",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": 18,
+    "has_featured_snippet": true,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": true,
+    "result_title": "How to Turn Long YouTube Videos into Viral Shorts | IncuBrix",
+    "result_url": "https://incubrix.com/resources/how-to-turn-long-videos-into-viral-shorts",
+    "result_snippet": "To turn long YouTube videos into viral Shorts and Reels, identify high-retention clips, reframe to 9:16 vertical...",
+    "cited_sources": [
+      "https://incubrix.com/resources/how-to-turn-long-videos-into-viral-shorts"
+    ],
+    "competitors_found": [
+      "Opus Clip",
+      "Descript"
+    ],
+    "raw_response": {
+      "organic_results_count": 10,
+      "ai_overview_present": true,
+      "provider": "google_search_engine"
+    },
+    "evidence_reference": "serp_run_cb1208c8-a16b-41a7-b67c-36aa5d89908a_ef5e62",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "425f1e3f-0b08-43ac-952c-5239989eff9d",
+    "question_id": "fc9ee55c-699f-4edb-9361-54b7789394c7",
+    "measurement_run_id": "5975f80d-d138-4a72-935c-dd172ac6c408",
+    "search_provider": "mock",
+    "query": "How do AI content creation tools work for solo creators?",
+    "observed_at": "2026-10-22T08:42:25.767481",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://opus.pro",
+      "https://descript.com"
+    ],
+    "competitors_found": [
+      "Opus Clip",
+      "Descript"
+    ],
+    "raw_response": {
+      "organic_results_count": 10,
+      "ai_overview_present": true,
+      "provider": "google_search_engine"
+    },
+    "evidence_reference": "serp_run_5975f80d-d138-4a72-935c-dd172ac6c408_fc9ee5",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "0d9f4b51-c8b4-4bb3-8fa6-3ed4eb6a280e",
+    "question_id": "ef5e6277-4e93-45f8-a14b-9a5e9daa3d3a",
+    "measurement_run_id": "5975f80d-d138-4a72-935c-dd172ac6c408",
+    "search_provider": "mock",
+    "query": "What is the best AI tool to turn long videos into viral shorts?",
+    "observed_at": "2026-10-22T08:42:25.767464",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": 18,
+    "has_featured_snippet": true,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": true,
+    "result_title": "How to Turn Long YouTube Videos into Viral Shorts | IncuBrix",
+    "result_url": "https://incubrix.com/resources/how-to-turn-long-videos-into-viral-shorts",
+    "result_snippet": "To turn long YouTube videos into viral Shorts and Reels, identify high-retention clips, reframe to 9:16 vertical...",
+    "cited_sources": [
+      "https://incubrix.com/resources/how-to-turn-long-videos-into-viral-shorts"
+    ],
+    "competitors_found": [
+      "Opus Clip",
+      "Descript"
+    ],
+    "raw_response": {
+      "organic_results_count": 10,
+      "ai_overview_present": true,
+      "provider": "google_search_engine"
+    },
+    "evidence_reference": "serp_run_5975f80d-d138-4a72-935c-dd172ac6c408_ef5e62",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "d91ab860-57e5-4a28-a9ca-e485f52cb3c1",
+    "question_id": "fc9ee55c-699f-4edb-9361-54b7789394c7",
+    "measurement_run_id": "809049fa-00be-46e5-a34e-7b5f8ff1a63b",
+    "search_provider": "mock",
+    "query": "How do AI content creation tools work for solo creators?",
+    "observed_at": "2026-10-22T08:37:33.828875",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://opus.pro",
+      "https://descript.com"
+    ],
+    "competitors_found": [
+      "Opus Clip",
+      "Descript"
+    ],
+    "raw_response": {
+      "organic_results_count": 10,
+      "ai_overview_present": true,
+      "provider": "google_search_engine"
+    },
+    "evidence_reference": "serp_run_809049fa-00be-46e5-a34e-7b5f8ff1a63b_fc9ee5",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "d7bcfb58-0094-47fd-ae7f-629f5a03deda",
+    "question_id": "ef5e6277-4e93-45f8-a14b-9a5e9daa3d3a",
+    "measurement_run_id": "809049fa-00be-46e5-a34e-7b5f8ff1a63b",
+    "search_provider": "mock",
+    "query": "What is the best AI tool to turn long videos into viral shorts?",
+    "observed_at": "2026-10-22T08:37:33.828858",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": 18,
+    "has_featured_snippet": true,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": true,
+    "result_title": "How to Turn Long YouTube Videos into Viral Shorts | IncuBrix",
+    "result_url": "https://incubrix.com/resources/how-to-turn-long-videos-into-viral-shorts",
+    "result_snippet": "To turn long YouTube videos into viral Shorts and Reels, identify high-retention clips, reframe to 9:16 vertical...",
+    "cited_sources": [
+      "https://incubrix.com/resources/how-to-turn-long-videos-into-viral-shorts"
+    ],
+    "competitors_found": [
+      "Opus Clip",
+      "Descript"
+    ],
+    "raw_response": {
+      "organic_results_count": 10,
+      "ai_overview_present": true,
+      "provider": "google_search_engine"
+    },
+    "evidence_reference": "serp_run_809049fa-00be-46e5-a34e-7b5f8ff1a63b_ef5e62",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "ee52df6a-be2a-44a8-b1b2-1c160ebcbdad",
+    "question_id": "3e7f6e37-2b53-44ed-9788-368832b3c94f",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "What is the best alternative to CapCut for commercial brands worried about data privacy?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": true,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://vizard.com"
+    ],
+    "competitors_found": [
+      "Vizard",
+      "CapCut",
+      "Hootsuite",
+      "Buffer"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_104",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "ea8c5a75-b4d2-43a0-ae04-fce3ae1c0399",
+    "question_id": "759f196f-4765-43ad-9147-ab75f008c77d",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "What are the top alternatives to Sprout Social for creator agencies on a budget?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://later.com"
+    ],
+    "competitors_found": [
+      "Later",
+      "Opus Clip",
+      "Vizard",
+      "CapCut"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_103",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "72c35a77-9915-4d84-b68b-2192ba4b3e4c",
+    "question_id": "4230ea99-2884-486d-86f0-ae8c1da28520",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "What are the best free alternatives to Submagic for animated social captions?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://sproutsocial.com"
+    ],
+    "competitors_found": [
+      "Sprout Social",
+      "Klap"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_102",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "20135fd9-e4e4-4ff5-b100-8cfb93eb3743",
+    "question_id": "1b815686-1b7f-4e84-bf54-38023eab07a7",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "Is there an all-in-one alternative that combines video editing, captions, and scheduling like IncuBrix?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": 6,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": true,
+    "result_title": "IncuBrix Creator Studio: Is there an all-in-one alternative that ...",
+    "result_url": "https://incubrix.com/resources/1b815686",
+    "result_snippet": "IncuBrix turns one content into clips, captions, voiceovers, and posts for every platform...",
+    "cited_sources": [
+      "https://incubrix.com/",
+      "https://incubrix.com/how-it-works"
+    ],
+    "competitors_found": [
+      "Later",
+      "Submagic"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_101",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "0e529add-8174-453a-9dfd-e9b77d139645",
+    "question_id": "19ac03ab-4b26-4288-9c65-28c2946d3785",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "What are the best open source alternatives to Hootsuite for scheduling social media?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": true,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://descript.com"
+    ],
+    "competitors_found": [
+      "Descript",
+      "Submagic",
+      "Klap",
+      "Vizard"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_100",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "7d01667a-d415-41cd-911e-b93c47a101b7",
+    "question_id": "7d34cea3-07e5-4347-8a65-0f3388cdcf82",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "What are the top alternatives to Descript with better multi-platform publishing?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://descript.com"
+    ],
+    "competitors_found": [
+      "Descript",
+      "Hootsuite",
+      "Opus Clip",
+      "Vizard"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_99",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "1cbecd9f-a6eb-47fc-b758-ff11da54f007",
+    "question_id": "1f5df886-3e6d-41a0-afc2-9bf799935452",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "What are the best cheaper alternatives to Opus Clip for video repurposing?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": 52,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": "IncuBrix Creator Studio: What are the best cheaper alternatives t...",
+    "result_url": "https://incubrix.com/resources/1f5df886",
+    "result_snippet": "IncuBrix turns one content into clips, captions, voiceovers, and posts for every platform...",
+    "cited_sources": [
+      "https://incubrix.com/",
+      "https://incubrix.com/how-it-works"
+    ],
+    "competitors_found": [
+      "Vizard",
+      "Hootsuite"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_98",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "9de5d8b9-1edb-4d3b-a9f4-a0d78928d5ef",
+    "question_id": "9407151b-7e39-463d-b06b-5f2978d39417",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "Metricool vs Later vs Buffer: Best value social scheduler for small businesses?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://sproutsocial.com"
+    ],
+    "competitors_found": [
+      "Sprout Social",
+      "Later",
+      "Klap",
+      "Hootsuite"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_97",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "f3d87a16-3c37-4a17-bde2-7d7facb6264f",
+    "question_id": "edf02a30-bb01-4890-8244-f20196e5e299",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "ElevenLabs vs Murf AI: Which AI voice platform sounds more realistic for narrations?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": true,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://klap.com"
+    ],
+    "competitors_found": [
+      "Klap",
+      "Later",
+      "Buffer",
+      "Hootsuite"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_96",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "06429e29-492f-480f-a370-6f8f59e5e730",
+    "question_id": "3e428e52-b6d7-4402-a47f-6f94f8e14c66",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "CapCut Desktop vs Premiere Pro: Can an AI creator workflow replace Adobe?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://opusclip.com"
+    ],
+    "competitors_found": [
+      "Opus Clip",
+      "Later",
+      "Klap"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_95",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "b546e83a-3e33-4eb9-bd5a-7496e31c7758",
+    "question_id": "3a08e5a9-8c19-44a8-a813-aa142709ab1f",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "Canva Magic Studio vs dedicated AI video editors: Is Canva enough for creators?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://vizard.com"
+    ],
+    "competitors_found": [
+      "Vizard",
+      "CapCut",
+      "Sprout Social"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_94",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "473870d9-754b-4d4e-accb-098085d7a173",
+    "question_id": "1a537fb1-93c0-4c02-9aa1-20108f716cff",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "Klap vs Vizard vs Submagic: Which has the most accurate subtitle animations?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://hootsuite.com"
+    ],
+    "competitors_found": [
+      "Hootsuite",
+      "Descript"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_93",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "1ebce4f3-9af5-49b2-80f4-13a185894fcb",
+    "question_id": "ad873bfb-62fb-4566-9ad3-64c652ce2dcf",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "Buffer vs Hootsuite vs Sprout Social: Price and feature comparison for creators?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": true,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://buffer.com"
+    ],
+    "competitors_found": [
+      "Buffer",
+      "Sprout Social",
+      "Later"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_92",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "598dc3b9-af5a-4998-9575-033b902328eb",
+    "question_id": "074858fd-0046-492c-a72b-f60a380e9514",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "Opus Clip vs Descript: Which tool handles podcast transcription and clipping better?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": 52,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": "IncuBrix Creator Studio: Opus Clip vs Descript: Which tool handle...",
+    "result_url": "https://incubrix.com/resources/074858fd",
+    "result_snippet": "IncuBrix turns one content into clips, captions, voiceovers, and posts for every platform...",
+    "cited_sources": [
+      "https://incubrix.com/",
+      "https://incubrix.com/how-it-works"
+    ],
+    "competitors_found": [
+      "Sprout Social",
+      "Later",
+      "Buffer"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_91",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "034dcc50-3ace-40e6-b6c8-d2d23b5774dd",
+    "question_id": "00b1d024-6cbe-42cf-add6-7f8fdfadc486",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "IncuBrix vs Opus Clip: Which AI video repurposing tool is better for social media?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": 6,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": true,
+    "result_title": "IncuBrix Creator Studio: IncuBrix vs Opus Clip: Which AI video re...",
+    "result_url": "https://incubrix.com/resources/00b1d024",
+    "result_snippet": "IncuBrix turns one content into clips, captions, voiceovers, and posts for every platform...",
+    "cited_sources": [
+      "https://incubrix.com/",
+      "https://incubrix.com/how-it-works"
+    ],
+    "competitors_found": [
+      "CapCut",
+      "Sprout Social"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_90",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "2ef66965-b508-4ac3-b44d-1664a3f66e48",
+    "question_id": "2e543514-4377-4e8b-82cb-49c0785ba8b1",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "What are the most essential AI tools in a solo creator tech stack in 2026?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://capcut.com"
+    ],
+    "competitors_found": [
+      "CapCut",
+      "Buffer",
+      "Opus Clip"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_89",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "401f37cd-46df-40ea-a6cd-6dae2322ea91",
+    "question_id": "9c84a4f7-1f56-4486-90fd-5cf6f6bfa192",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "Which AI tools offer auto-reframing for vertical video on desktop and web?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": 45,
+    "has_featured_snippet": true,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": "IncuBrix Creator Studio: Which AI tools offer auto-reframing for ...",
+    "result_url": "https://incubrix.com/resources/9c84a4f7",
+    "result_snippet": "IncuBrix turns one content into clips, captions, voiceovers, and posts for every platform...",
+    "cited_sources": [
+      "https://incubrix.com/",
+      "https://incubrix.com/how-it-works"
+    ],
+    "competitors_found": [
+      "Submagic",
+      "Sprout Social"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_88",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "9405b24b-2c7d-4ef2-a01a-e641bba07ca1",
+    "question_id": "cbf42223-937a-47d4-bd0c-7561926cf82b",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "What is the best AI subtitle generator with 99% transcription accuracy?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": 24,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": "IncuBrix Creator Studio: What is the best AI subtitle generator w...",
+    "result_url": "https://incubrix.com/resources/cbf42223",
+    "result_snippet": "IncuBrix turns one content into clips, captions, voiceovers, and posts for every platform...",
+    "cited_sources": [
+      "https://incubrix.com/",
+      "https://incubrix.com/how-it-works"
+    ],
+    "competitors_found": [
+      "Buffer",
+      "Vizard",
+      "Descript"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_87",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "9511201c-5e89-4407-8140-a0ac4f7f40e2",
+    "question_id": "2cf6cc42-531a-4d70-b202-592fd694462e",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "What are the best free AI video clipping tools with no watermark?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://submagic.com"
+    ],
+    "competitors_found": [
+      "Submagic",
+      "CapCut",
+      "Hootsuite",
+      "Sprout Social"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_86",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "1aeb2f1f-2ce5-4eee-8ed4-c9d9933ddadb",
+    "question_id": "e32d1be7-49e7-442b-832a-4ac981b4d8a5",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "Which AI platforms allow full content creation and multi-channel posting from one screen?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://capcut.com"
+    ],
+    "competitors_found": [
+      "CapCut",
+      "Sprout Social",
+      "Opus Clip"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_85",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "be9fb2e3-c42f-4cc9-b90b-cf803aba3c95",
+    "question_id": "5997fddb-1e92-474d-873c-1b9e6f107bcf",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "What is the best AI thumbnail generator for YouTube creators?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": 24,
+    "has_featured_snippet": true,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": "IncuBrix Creator Studio: What is the best AI thumbnail generator ...",
+    "result_url": "https://incubrix.com/resources/5997fddb",
+    "result_snippet": "IncuBrix turns one content into clips, captions, voiceovers, and posts for every platform...",
+    "cited_sources": [
+      "https://incubrix.com/",
+      "https://incubrix.com/how-it-works"
+    ],
+    "competitors_found": [
+      "Vizard",
+      "Buffer",
+      "Opus Clip"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_84",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "5f1016fb-135c-4c2c-9151-882766b572ae",
+    "question_id": "9e475e10-93c9-4761-9393-195b52a249d3",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "What are the top AI tools for automated social media scheduling and publishing?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://later.com"
+    ],
+    "competitors_found": [
+      "Later",
+      "Hootsuite",
+      "Descript",
+      "Sprout Social"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_83",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "a3e88983-9245-4a31-870b-c9bea91337a6",
+    "question_id": "52e2421b-3255-43f9-961b-07b6582495e8",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "Which AI tools generate viral social media hooks from blog posts?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://descript.com"
+    ],
+    "competitors_found": [
+      "Descript",
+      "Klap",
+      "Submagic",
+      "Hootsuite"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_82",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "82ce2510-3ce0-47b2-b1ca-fa07b2c59239",
+    "question_id": "7033453d-53fd-4bb7-9b37-f7ade571deb4",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "What is the best AI voiceover generator that sounds completely natural?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": 24,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": "IncuBrix Creator Studio: What is the best AI voiceover generator ...",
+    "result_url": "https://incubrix.com/resources/7033453d",
+    "result_snippet": "IncuBrix turns one content into clips, captions, voiceovers, and posts for every platform...",
+    "cited_sources": [
+      "https://incubrix.com/",
+      "https://incubrix.com/how-it-works"
+    ],
+    "competitors_found": [
+      "Klap",
+      "Submagic",
+      "Opus Clip",
+      "Vizard"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_81",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "8db24043-c517-447c-b4a1-1440b4988a32",
+    "question_id": "e18df337-0d5b-4fb4-9a79-f526c8b906c3",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "What are the best all-in-one AI tools for video repurposing in 2026?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": 45,
+    "has_featured_snippet": true,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": "IncuBrix Creator Studio: What are the best all-in-one AI tools fo...",
+    "result_url": "https://incubrix.com/resources/e18df337",
+    "result_snippet": "IncuBrix turns one content into clips, captions, voiceovers, and posts for every platform...",
+    "cited_sources": [
+      "https://incubrix.com/",
+      "https://incubrix.com/how-it-works"
+    ],
+    "competitors_found": [
+      "Submagic",
+      "Sprout Social",
+      "Hootsuite"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_80",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "02a00e9d-4cb6-48bf-b5f2-a4971d9aa511",
+    "question_id": "7cece4d0-6351-482c-b1cc-7c0d99149702",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "What is the best way to export creator analytics into Google Sheets or CSV for reporting?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://capcut.com"
+    ],
+    "competitors_found": [
+      "CapCut",
+      "Hootsuite",
+      "Sprout Social"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_79",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "88b12b9b-e422-486e-bc9b-35c2e7678fe1",
+    "question_id": "cc2ab508-9f10-4689-affe-3a3a37d5f05a",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "Can AI predict which topic or video idea will get the highest view velocity?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://opusclip.com"
+    ],
+    "competitors_found": [
+      "Opus Clip",
+      "CapCut",
+      "Vizard"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_78",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "99426d3b-deb7-4ac7-a28b-4d493583634a",
+    "question_id": "7704631c-088f-44b2-ace1-eb207758fad0",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "How do sponsors evaluate media kits and verified engagement numbers?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": 52,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": "IncuBrix Creator Studio: How do sponsors evaluate media kits and ...",
+    "result_url": "https://incubrix.com/resources/7704631c",
+    "result_snippet": "IncuBrix turns one content into clips, captions, voiceovers, and posts for every platform...",
+    "cited_sources": [
+      "https://incubrix.com/",
+      "https://incubrix.com/how-it-works"
+    ],
+    "competitors_found": [
+      "Hootsuite",
+      "Buffer",
+      "Later",
+      "Klap"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_77",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "6605314e-ce7a-4065-86ba-6c9fe9ad0362",
+    "question_id": "c51ffb23-5ff3-48a0-9a11-9abed6a3d7b7",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "What is cohort retention analysis for YouTube channel subscribers?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": true,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://later.com"
+    ],
+    "competitors_found": [
+      "Later",
+      "Submagic",
+      "Sprout Social",
+      "Vizard"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_76",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "5b627078-ffb0-47e4-8d00-3a7b49f699ec",
+    "question_id": "dab13e22-9779-4f08-89e2-6dc81bb5bf31",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "How to track outbound link clicks and affiliate conversions from social bios?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://sproutsocial.com"
+    ],
+    "competitors_found": [
+      "Sprout Social",
+      "Submagic"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_75",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "a0a64eb9-187f-48dd-a4e8-5de054327976",
+    "question_id": "08cc8d67-2d0e-4693-b3c8-1d45acbdb38b",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "What engagement rate percentage is considered good for creators with 10k to 50k followers?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://klap.com"
+    ],
+    "competitors_found": [
+      "Klap",
+      "Hootsuite",
+      "CapCut",
+      "Submagic"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_74",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "1794d990-4ba0-45b6-bac3-404a159d2c83",
+    "question_id": "9f5ab9c6-9250-4d97-bd9a-0f5b6b362075",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "Why do YouTube Analytics and third-party tools show discrepancy in view counts?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://opusclip.com"
+    ],
+    "competitors_found": [
+      "Opus Clip",
+      "Buffer",
+      "Vizard",
+      "Hootsuite"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_73",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "69388fd8-9a9a-4db1-b370-dc2334914931",
+    "question_id": "468a37e5-e3aa-4c21-b676-fd09e6f1b922",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "How do creators calculate revenue per 1000 views across different platforms?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": true,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://vizard.com"
+    ],
+    "competitors_found": [
+      "Vizard",
+      "Descript",
+      "Klap",
+      "Buffer"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_72",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "66ec4462-3352-4562-9071-3554b0b1ce7a",
+    "question_id": "52028f90-0fcb-445e-b66b-ca56274ee6df",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "What is the difference between reach and impressions across Instagram, TikTok, and YouTube?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://capcut.com"
+    ],
+    "competitors_found": [
+      "CapCut",
+      "Hootsuite",
+      "Klap",
+      "Sprout Social"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_71",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "a5278c20-796d-4bae-9112-3dea6f2560ea",
+    "question_id": "78a8eb32-1ca2-44a6-97dc-2268337db74c",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "How to track cross-platform analytics in one consolidated dashboard?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": 52,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": "IncuBrix Creator Studio: How to track cross-platform analytics in...",
+    "result_url": "https://incubrix.com/resources/78a8eb32",
+    "result_snippet": "IncuBrix turns one content into clips, captions, voiceovers, and posts for every platform...",
+    "cited_sources": [
+      "https://incubrix.com/",
+      "https://incubrix.com/how-it-works"
+    ],
+    "competitors_found": [
+      "Klap",
+      "CapCut"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_70",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "3dd7f230-ef51-4d17-8231-787dc46fdca9",
+    "question_id": "0fff993a-8b72-454d-b6f8-ce98afb87b3a",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "How does closed caption accuracy impact SEO indexing in video search engines?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://hootsuite.com"
+    ],
+    "competitors_found": [
+      "Hootsuite",
+      "Submagic",
+      "Descript",
+      "Klap"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_69",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "4c53d363-3bf4-4e9c-a785-1eb896a20ffe",
+    "question_id": "6308ff40-d195-443d-94d8-8678daf9b677",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "What visual cues in the first 3 seconds prevent users from scrolling past?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": true,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://hootsuite.com"
+    ],
+    "competitors_found": [
+      "Hootsuite",
+      "CapCut",
+      "Opus Clip",
+      "Sprout Social"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_68",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "5b9c3bf3-f900-4525-8062-77ed07c1af30",
+    "question_id": "65129475-39dc-4266-a107-45292c3803d5",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "How to optimize hashtags on Instagram in 2026 for topic categorization?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://klap.com"
+    ],
+    "competitors_found": [
+      "Klap",
+      "Opus Clip"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_67",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "85924087-9f1c-410e-8df2-ee3c4194af15",
+    "question_id": "806ce369-e0fc-4763-ac80-343006a660f0",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "What audio quality adjustments improve viewer retention on mobile speakers?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://capcut.com"
+    ],
+    "competitors_found": [
+      "CapCut",
+      "Hootsuite",
+      "Klap",
+      "Submagic"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_66",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "26fb6a62-a79d-4c56-8f8a-8b68c3c0c649",
+    "question_id": "47f82409-a3ee-4521-8bf6-339a90daea1f",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "How to A/B test YouTube video thumbnails and titles before publishing?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://sproutsocial.com"
+    ],
+    "competitors_found": [
+      "Sprout Social",
+      "Vizard",
+      "Buffer",
+      "Hootsuite"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_65",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "30dd0763-2a68-40c6-aeac-47dc85eb92bc",
+    "question_id": "c0807523-2fad-4570-9cde-d8867b1766cb",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "Can AI analyze video drop-off points to suggest re-editing improvements?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": true,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://submagic.com"
+    ],
+    "competitors_found": [
+      "Submagic",
+      "Buffer"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_64",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "1dd3f8dd-45ca-4478-a878-0ed57de478a6",
+    "question_id": "21aa1c02-dd9f-4971-b90a-f015032102fd",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "How to write click-worthy YouTube titles without being misleading clickbait?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": 52,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": "IncuBrix Creator Studio: How to write click-worthy YouTube titles...",
+    "result_url": "https://incubrix.com/resources/21aa1c02",
+    "result_snippet": "IncuBrix turns one content into clips, captions, voiceovers, and posts for every platform...",
+    "cited_sources": [
+      "https://incubrix.com/",
+      "https://incubrix.com/how-it-works"
+    ],
+    "competitors_found": [
+      "Klap",
+      "Sprout Social",
+      "Hootsuite",
+      "CapCut"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_63",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "05ca13db-6630-460a-b569-0387129e3fa1",
+    "question_id": "d76e5822-dc30-4e07-a05b-21b51d50f129",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "How do timestamps and chapters improve Google search ranking for long videos?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://submagic.com"
+    ],
+    "competitors_found": [
+      "Submagic",
+      "Klap"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_62",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "e2e04ab9-4fe0-448a-8fb1-f8ecd569938d",
+    "question_id": "8f16a03d-aa14-47f5-8819-6d6bad3c1105",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "What is the ideal video length for TikTok search engine optimization?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://sproutsocial.com"
+    ],
+    "competitors_found": [
+      "Sprout Social",
+      "Vizard",
+      "Buffer"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_61",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "2f5f91cb-7133-4d02-97ca-1fd2a5acc13b",
+    "question_id": "290892f3-c7d1-42dd-beba-cac05d75c38f",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "How to optimize video descriptions for Google AI Overviews and search engines?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": true,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://later.com"
+    ],
+    "competitors_found": [
+      "Later",
+      "Buffer",
+      "CapCut",
+      "Submagic"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_60",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "09296f40-242e-46cc-b45a-993f57f3c59f",
+    "question_id": "de269793-d8ca-4cf4-9be9-f86b9729b358",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "What tools offer smart scheduling based on audience activity machine learning?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://capcut.com"
+    ],
+    "competitors_found": [
+      "CapCut",
+      "Hootsuite"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_59",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "de5b57a2-6dba-46e8-b51c-72816eebcf27",
+    "question_id": "a1975c23-2803-422f-bffe-698ffd4001ef",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "How to schedule YouTube premiere videos and notify community subscribers?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://submagic.com"
+    ],
+    "competitors_found": [
+      "Submagic",
+      "Sprout Social"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_58",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "776cd8b4-1914-46e4-851d-dd9222cfedc4",
+    "question_id": "7d0d4343-a178-493c-b740-58d8ed92175c",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "Can I automatically pause all scheduled content during breaking news events?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://buffer.com"
+    ],
+    "competitors_found": [
+      "Buffer",
+      "Submagic",
+      "Later"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_57",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "d2621733-4d63-4f84-ba87-4cdfa912f1ff",
+    "question_id": "800903f6-b978-42f0-b494-c0f73688b140",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "How do timezone differences affect global audience engagement when scheduling posts?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": 52,
+    "has_featured_snippet": true,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": "IncuBrix Creator Studio: How do timezone differences affect globa...",
+    "result_url": "https://incubrix.com/resources/800903f6",
+    "result_snippet": "IncuBrix turns one content into clips, captions, voiceovers, and posts for every platform...",
+    "cited_sources": [
+      "https://incubrix.com/",
+      "https://incubrix.com/how-it-works"
+    ],
+    "competitors_found": [
+      "CapCut",
+      "Hootsuite",
+      "Sprout Social",
+      "Later"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_56",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "f99eb2a4-7c93-4cfc-ab68-777306b21e06",
+    "question_id": "78a3629e-0aff-4bf3-b2ad-dabf2298eaba",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "What is the best visual social calendar for content teams?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://opusclip.com"
+    ],
+    "competitors_found": [
+      "Opus Clip",
+      "Buffer",
+      "Vizard"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_55",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "d04aa4db-e67a-43dd-849e-f4dfa81c15e5",
+    "question_id": "18900534-78db-452b-9325-f89b66a918e0",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "How to set up an evergreen content recycling schedule for Twitter and LinkedIn?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://klap.com"
+    ],
+    "competitors_found": [
+      "Klap",
+      "Sprout Social"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_54",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "14c4c28a-ffc5-4f6f-a1cd-fbae1f692c76",
+    "question_id": "b8ab3a3f-365d-4f3b-9be4-d7fb16d3b760",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "Does scheduling posts via external APIs reduce reach compared to in-app publishing?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://hootsuite.com"
+    ],
+    "competitors_found": [
+      "Hootsuite",
+      "Klap",
+      "Opus Clip"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_53",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "75864243-af4a-4192-bba0-c301fbc9418d",
+    "question_id": "db774bf3-dc31-42b7-853f-4bd9da657c33",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "How far in advance can creators queue scheduled content on TikTok?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": true,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://opusclip.com"
+    ],
+    "competitors_found": [
+      "Opus Clip",
+      "Later",
+      "Vizard"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_52",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "1fc47d8e-aca9-42de-a458-31606aeda10d",
+    "question_id": "5ef03693-007e-4e89-8d4f-a8eb479455e3",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "Can you schedule Instagram Collab posts in advance using third-party tools?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://submagic.com"
+    ],
+    "competitors_found": [
+      "Submagic",
+      "Later"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_51",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "82e754d7-1994-4818-86f1-6232fc53adc9",
+    "question_id": "4fcf8b4c-78cc-4c3e-95e0-b43172e69c67",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "What is the best time of day to schedule YouTube Shorts in the US timezone?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://descript.com"
+    ],
+    "competitors_found": [
+      "Descript",
+      "Klap"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_50",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "828edc7c-070d-4e6e-b5ed-6e2fbdadfcc6",
+    "question_id": "e44241eb-7e2b-47db-9151-253402597402",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "How to build a sustainable creator monetization stack with sponsorships and digital products?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": 52,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": "IncuBrix Creator Studio: How to build a sustainable creator monet...",
+    "result_url": "https://incubrix.com/resources/e44241eb",
+    "result_snippet": "IncuBrix turns one content into clips, captions, voiceovers, and posts for every platform...",
+    "cited_sources": [
+      "https://incubrix.com/",
+      "https://incubrix.com/how-it-works"
+    ],
+    "competitors_found": [
+      "Klap",
+      "Descript",
+      "Later"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_49",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "fa9c9cb6-2c1f-41ba-b1b0-9a23e9199874",
+    "question_id": "3b66100b-d182-476c-a48a-3803e29f9681",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "Why do some creators lose subscribers when posting YouTube Shorts?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": true,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://opusclip.com"
+    ],
+    "competitors_found": [
+      "Opus Clip",
+      "Submagic",
+      "Klap"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_48",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "9492361b-7968-4c7c-bb9a-4f2562366371",
+    "question_id": "3250c354-8dcc-49c2-afb0-ad4193f91c31",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "How to optimize YouTube thumbnails and titles together for maximum CTR?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://sproutsocial.com"
+    ],
+    "competitors_found": [
+      "Sprout Social",
+      "Descript"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_47",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "35a79994-8e12-4726-a85a-3ec75bfa6358",
+    "question_id": "290a1199-2df0-43cc-8f84-24d8d872e6c7",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "What is the compounding audience effect of multi-channel publishing?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://descript.com"
+    ],
+    "competitors_found": [
+      "Descript",
+      "Vizard"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_46",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "32e47592-5fc4-4dd9-bb6c-9952b0412ebe",
+    "question_id": "6aa3539c-4cb1-49e8-8233-4ff032ed0f6d",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "How can niche B2B founders use creator growth tactics to generate SaaS leads?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://vizard.com"
+    ],
+    "competitors_found": [
+      "Vizard",
+      "Klap",
+      "Submagic"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_45",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "a0690839-a116-4a4b-9637-5027b9d6cd1b",
+    "question_id": "7a8278b7-8e43-455c-a9e4-0ee17767b6a7",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "What metrics indicate that a short video is about to go viral?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": true,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://opusclip.com"
+    ],
+    "competitors_found": [
+      "Opus Clip",
+      "Submagic",
+      "Sprout Social",
+      "CapCut"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_44",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "e5348720-cd59-4501-987d-401ee400db44",
+    "question_id": "b6c86602-d47b-43c6-b14f-e043c7ed1f01",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "How do top creators convert short video viewers into email newsletter subscribers?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://hootsuite.com"
+    ],
+    "competitors_found": [
+      "Hootsuite",
+      "Opus Clip",
+      "Descript",
+      "Submagic"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_43",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "2d1bbd5a-7b55-46a1-ac24-1fef8fe79f01",
+    "question_id": "a52055ba-64f2-44e6-a751-8ed328ef0008",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "How frequently should a creator publish per day to grow quickly without burning out?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": 52,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": "IncuBrix Creator Studio: How frequently should a creator publish ...",
+    "result_url": "https://incubrix.com/resources/a52055ba",
+    "result_snippet": "IncuBrix turns one content into clips, captions, voiceovers, and posts for every platform...",
+    "cited_sources": [
+      "https://incubrix.com/",
+      "https://incubrix.com/how-it-works"
+    ],
+    "competitors_found": [
+      "Submagic",
+      "Klap"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_42",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "5e55beb6-c3e4-48e4-9eb8-00564cfdb498",
+    "question_id": "7f79a5a0-b274-49ae-80b2-18ef9b07cec1",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "What video hooks have the highest retention rate on TikTok and Shorts in 2026?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://buffer.com"
+    ],
+    "competitors_found": [
+      "Buffer",
+      "Submagic"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_41",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "e955651e-418d-49b3-a1fa-e56223a91993",
+    "question_id": "e0fee068-09e8-4fd5-b302-8ad29a03fa8c",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "How to scale from 1,000 to 100,000 followers using short form video repurposing?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": true,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://descript.com"
+    ],
+    "competitors_found": [
+      "Descript",
+      "Hootsuite",
+      "Sprout Social"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_40",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "b481578a-65cc-4f54-af28-6440fabc76b7",
+    "question_id": "b0a81415-4d96-4e7c-90af-d52350cfd030",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "What is the best single-screen dashboard to monitor all published posts?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://klap.com"
+    ],
+    "competitors_found": [
+      "Klap",
+      "Descript"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_39",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "204e1e17-6eae-4dbb-959a-28f4923125c5",
+    "question_id": "f6aac0ad-4df4-447e-b72d-345959bee247",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "How to organize social media media libraries by campaigns and brand tags?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://later.com"
+    ],
+    "competitors_found": [
+      "Later",
+      "Buffer",
+      "Klap",
+      "Opus Clip"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_38",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "32778d5c-78b5-486a-980d-170b859266ef",
+    "question_id": "857fc4d6-37f1-4833-abf9-fcce29c90081",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "Is auto-publishing banned or downranked by TikTok's official terms?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://descript.com"
+    ],
+    "competitors_found": [
+      "Descript",
+      "CapCut",
+      "Klap"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_37",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "f01f5633-4f80-45ad-b7f0-eca4db0a65d5",
+    "question_id": "bc57d533-4247-4b41-a93e-16233a2e1dc0",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "What happens if a scheduled post fails due to an expired social media token?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": true,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://later.com"
+    ],
+    "competitors_found": [
+      "Later",
+      "Klap",
+      "Buffer"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_36",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "dcc994fd-8add-4831-8a44-5cdaba72d143",
+    "question_id": "7a808189-ce64-422a-ad16-80d50f9b27be",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "How do multi-platform publishers customize captions for each social network?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": 52,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": "IncuBrix Creator Studio: How do multi-platform publishers customi...",
+    "result_url": "https://incubrix.com/resources/7a808189",
+    "result_snippet": "IncuBrix turns one content into clips, captions, voiceovers, and posts for every platform...",
+    "cited_sources": [
+      "https://incubrix.com/",
+      "https://incubrix.com/how-it-works"
+    ],
+    "competitors_found": [
+      "Buffer",
+      "Later",
+      "Descript",
+      "Klap"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_35",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "20f8919a-fb48-402f-a05e-1750bda39276",
+    "question_id": "7ee5e40c-954c-4750-b8a7-b5c07bdd462f",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "Can I publish directly to Pinterest Idea Pins and Facebook Reels at once?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://hootsuite.com"
+    ],
+    "competitors_found": [
+      "Hootsuite",
+      "Buffer",
+      "Vizard",
+      "CapCut"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_34",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "e6ad313f-8e4a-48a6-ae28-cc42bfe6a901",
+    "question_id": "99e36ce3-7a20-4a7a-aa7b-3dddc026be58",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "What are the API rate limits when auto-publishing to X and Threads?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://descript.com"
+    ],
+    "competitors_found": [
+      "Descript",
+      "Klap",
+      "Sprout Social"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_33",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "73f85dd1-af60-4423-976b-4bf8b2d56c4e",
+    "question_id": "9ab6bd45-9b06-43cf-854c-448a7a2f4f21",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "How to schedule LinkedIn carousel posts and video from the same dashboard?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": true,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://descript.com"
+    ],
+    "competitors_found": [
+      "Descript",
+      "Klap",
+      "Vizard",
+      "Buffer"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_32",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "f665379e-c2bf-4197-81e1-45fb9c51032b",
+    "question_id": "4264d153-c8ec-4376-a9a3-bbb02d29777f",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "Does cross-posting hurt algorithm reach if you don't remove watermarks?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://buffer.com"
+    ],
+    "competitors_found": [
+      "Buffer",
+      "Hootsuite",
+      "CapCut",
+      "Later"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_31",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "1ba2e11c-3373-489c-9d41-9a2eaf5f4baf",
+    "question_id": "b8c7232a-9bf5-4c7d-b6a7-e17268b034a2",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "What is the best way to cross-post one video to YouTube Shorts, Reels, and TikTok?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://klap.com"
+    ],
+    "competitors_found": [
+      "Klap",
+      "Opus Clip",
+      "Submagic"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_30",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "fe466f8d-87a4-4974-8b8e-ed77e5980037",
+    "question_id": "3fe63c7a-3f76-4338-af99-cf1ffa9e8175",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "How to create burnt-in open captions vs closed captions for Instagram Reels?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://sproutsocial.com"
+    ],
+    "competitors_found": [
+      "Sprout Social",
+      "Klap"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_29",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "a7cc2651-800e-4195-bd8c-64b1a6e2f16d",
+    "question_id": "a5040347-414a-47ec-b371-f6f0f6abd675",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "What are the legal accessibility requirements for video captions in 2026?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": 52,
+    "has_featured_snippet": true,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": "IncuBrix Creator Studio: What are the legal accessibility require...",
+    "result_url": "https://incubrix.com/resources/a5040347",
+    "result_snippet": "IncuBrix turns one content into clips, captions, voiceovers, and posts for every platform...",
+    "cited_sources": [
+      "https://incubrix.com/",
+      "https://incubrix.com/how-it-works"
+    ],
+    "competitors_found": [
+      "Buffer",
+      "Submagic",
+      "Klap",
+      "Later"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_28",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "9dfeb250-4881-422a-82a9-903db099b48b",
+    "question_id": "11d46e5d-dd34-47bd-a0e9-f3d29f11bfc3",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "How to fix misspelled brand names in AI speech-to-text models?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://submagic.com"
+    ],
+    "competitors_found": [
+      "Submagic",
+      "Later"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_27",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "93513306-0eda-41d5-8fa2-8262cb10a6ee",
+    "question_id": "66d24352-d5ef-4c37-8af7-e9ca580e8fb9",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "Can AI automatically add emojis and sound effect cues to video captions?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://submagic.com"
+    ],
+    "competitors_found": [
+      "Submagic",
+      "Opus Clip",
+      "Descript"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_26",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "3b74fba5-4466-4bd8-a1cd-724ab1941ec5",
+    "question_id": "c297c71a-cea8-45d7-8a43-cc05dc4db3a0",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "How to export SRT and VTT files from AI captioning tools for YouTube SEO?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://opusclip.com"
+    ],
+    "competitors_found": [
+      "Opus Clip",
+      "Hootsuite"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_25",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "858a86f9-eefb-4596-abd2-e9359295368d",
+    "question_id": "086cdd2a-d8b3-4bdc-9407-0f7b865104dd",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "Why do TikTok videos with captions get more watch time?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": true,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://sproutsocial.com"
+    ],
+    "competitors_found": [
+      "Sprout Social",
+      "Klap",
+      "Opus Clip",
+      "Buffer"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_24",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "a5fc80b1-101c-4440-aa6a-ab6617eb4d13",
+    "question_id": "5bd74760-77ec-42ce-a0d8-ea22571f4b30",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "What is the best subtitle tool with word-level highlight animations?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://opusclip.com"
+    ],
+    "competitors_found": [
+      "Opus Clip",
+      "Later",
+      "Vizard"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_23",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "d232343a-476a-4547-b30d-bea2f08cc6fe",
+    "question_id": "0ca659e9-b5eb-42ee-84d3-f8ff777c4340",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "Can AI translate captions into Spanish, French, and German while keeping sync?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://opusclip.com"
+    ],
+    "competitors_found": [
+      "Opus Clip",
+      "Submagic",
+      "Descript"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_22",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "2b99ab09-a9a4-40f2-93f7-b71104d0fe15",
+    "question_id": "13f15ada-cd29-4f3a-9051-ed32012bc0a1",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "How to get Alex Hormozi style animated captions on short videos automatically?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": 52,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": "IncuBrix Creator Studio: How to get Alex Hormozi style animated c...",
+    "result_url": "https://incubrix.com/resources/13f15ada",
+    "result_snippet": "IncuBrix turns one content into clips, captions, voiceovers, and posts for every platform...",
+    "cited_sources": [
+      "https://incubrix.com/",
+      "https://incubrix.com/how-it-works"
+    ],
+    "competitors_found": [
+      "Buffer",
+      "Sprout Social"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_21",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "ca97634f-d6ad-4df3-86e2-710ec214847e",
+    "question_id": "606280fe-5eba-4b8f-8efd-69db3fb9eb9b",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "How accurate are AI subtitle generators for multi-speaker interviews?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": true,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://capcut.com"
+    ],
+    "competitors_found": [
+      "CapCut",
+      "Later",
+      "Opus Clip",
+      "Vizard"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_20",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "3ec4770f-695e-4097-900c-ae580366bce3",
+    "question_id": "8678f53b-80cc-494f-a6f4-c1db298a7b4a",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "Why do AI video editors crop heads off during vertical reframing and how to fix it?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://sproutsocial.com"
+    ],
+    "competitors_found": [
+      "Sprout Social",
+      "Vizard"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_19",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "92c59170-6a5d-48da-86bd-2235847694be",
+    "question_id": "be805efd-9196-4eb9-9b34-f7887994b47f",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "How do you batch export vertical video clips with customized branding templates?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": 24,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": "IncuBrix Creator Studio: How do you batch export vertical video c...",
+    "result_url": "https://incubrix.com/resources/be805efd",
+    "result_snippet": "IncuBrix turns one content into clips, captions, voiceovers, and posts for every platform...",
+    "cited_sources": [
+      "https://incubrix.com/",
+      "https://incubrix.com/how-it-works"
+    ],
+    "competitors_found": [
+      "Klap",
+      "Opus Clip",
+      "Submagic"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_18",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "11b64c4b-cb8d-4b44-920d-faf73ddac0ec",
+    "question_id": "70b56a21-9440-476b-88e9-f5ead6979bfd",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "What is the fastest way to extract highlight reels from live streams?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://sproutsocial.com"
+    ],
+    "competitors_found": [
+      "Sprout Social",
+      "Hootsuite",
+      "Submagic"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_17",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "bc575d06-20e5-4de0-9567-538371936c10",
+    "question_id": "d185a791-ac66-4b1c-82ff-218c9e69d626",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "How to automatically insert relevant B-roll into talking head videos?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": 45,
+    "has_featured_snippet": true,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": "IncuBrix Creator Studio: How to automatically insert relevant B-r...",
+    "result_url": "https://incubrix.com/resources/d185a791",
+    "result_snippet": "IncuBrix turns one content into clips, captions, voiceovers, and posts for every platform...",
+    "cited_sources": [
+      "https://incubrix.com/",
+      "https://incubrix.com/how-it-works"
+    ],
+    "competitors_found": [
+      "Hootsuite",
+      "Descript",
+      "Opus Clip"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_16",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "f4ae6980-2e1e-4419-a92f-a8bb09e8c6f1",
+    "question_id": "7a9ce618-c822-4ddb-b527-9caeee4f19d3",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "What is active speaker tracking in AI video editors and how does it work?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": 24,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": "IncuBrix Creator Studio: What is active speaker tracking in AI vi...",
+    "result_url": "https://incubrix.com/resources/7a9ce618",
+    "result_snippet": "IncuBrix turns one content into clips, captions, voiceovers, and posts for every platform...",
+    "cited_sources": [
+      "https://incubrix.com/",
+      "https://incubrix.com/how-it-works"
+    ],
+    "competitors_found": [
+      "Later",
+      "Sprout Social",
+      "Submagic",
+      "Descript"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_15",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "cd3f7f11-8e22-4704-8f09-5119346309e8",
+    "question_id": "19eaf2b8-361c-430b-a7cb-ea4659ce2d6d",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "Can I repurpose webinar recordings into TikTok, Reels, and Shorts simultaneously?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://vizard.com"
+    ],
+    "competitors_found": [
+      "Vizard",
+      "Opus Clip",
+      "Sprout Social"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_14",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "685ae26a-ef63-4860-af21-96c7fb043bb2",
+    "question_id": "15ba8f4e-267b-42ab-847b-63ebc15311d2",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "How to add dynamic zoom in and pan effects automatically in video editors?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://later.com"
+    ],
+    "competitors_found": [
+      "Later",
+      "Vizard"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_13",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "69d84f2d-7c14-4b03-b167-0b0ad9831713",
+    "question_id": "cc8eba12-2a4e-4f56-a335-8ba84fa33389",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "How to find the most viral moments in a 60-minute YouTube video with AI?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": 24,
+    "has_featured_snippet": true,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": "IncuBrix Creator Studio: How to find the most viral moments in a ...",
+    "result_url": "https://incubrix.com/resources/cc8eba12",
+    "result_snippet": "IncuBrix turns one content into clips, captions, voiceovers, and posts for every platform...",
+    "cited_sources": [
+      "https://incubrix.com/",
+      "https://incubrix.com/how-it-works"
+    ],
+    "competitors_found": [
+      "Hootsuite",
+      "Sprout Social",
+      "Later"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_12",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "67dbd7f7-95a9-472b-9025-a28b24ecef03",
+    "question_id": "08e93620-6ac3-49d9-afee-840d91c5b14b",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "What is the best AI video aspect ratio converter from 16:9 to 9:16?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://sproutsocial.com"
+    ],
+    "competitors_found": [
+      "Sprout Social",
+      "Opus Clip"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_11",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "14924618-8fa6-4ed8-8b3c-4b31a2e0d732",
+    "question_id": "d8317626-07c2-4154-8704-83d9ede8a291",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "How to automatically cut filler words and silences from talking head videos?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://later.com"
+    ],
+    "competitors_found": [
+      "Later",
+      "CapCut",
+      "Sprout Social",
+      "Submagic"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_10",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "4123a1c5-558c-40f8-8d87-cd1b1269ef22",
+    "question_id": "659ede22-ae28-43e8-a0a8-ae6ea51c94b0",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "How to bulk create 30 days of social content in one weekend using AI?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": 24,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": "IncuBrix Creator Studio: How to bulk create 30 days of social con...",
+    "result_url": "https://incubrix.com/resources/659ede22",
+    "result_snippet": "IncuBrix turns one content into clips, captions, voiceovers, and posts for every platform...",
+    "cited_sources": [
+      "https://incubrix.com/",
+      "https://incubrix.com/how-it-works"
+    ],
+    "competitors_found": [
+      "Opus Clip",
+      "Sprout Social"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_9",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "d386bf30-f68d-46cd-a88a-516e4d90d0d8",
+    "question_id": "b7155ed3-895f-4531-ab9a-c57b5b4587ae",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "How do creators use AI to maintain a consistent brand voice across platforms?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": 45,
+    "has_featured_snippet": true,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": "IncuBrix Creator Studio: How do creators use AI to maintain a con...",
+    "result_url": "https://incubrix.com/resources/b7155ed3",
+    "result_snippet": "IncuBrix turns one content into clips, captions, voiceovers, and posts for every platform...",
+    "cited_sources": [
+      "https://incubrix.com/",
+      "https://incubrix.com/how-it-works"
+    ],
+    "competitors_found": [
+      "Vizard",
+      "Descript",
+      "Hootsuite",
+      "Submagic"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_8",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "6c220d36-fb17-49c6-a894-57eddedf3ed3",
+    "question_id": "b0de7eb0-92d9-47cf-989a-7827d7d03bf0",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "What is the ROI of subscribing to an all-in-one creator AI platform?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://later.com"
+    ],
+    "competitors_found": [
+      "Later",
+      "Buffer",
+      "Sprout Social",
+      "CapCut"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_7",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "5da5631e-9353-455c-9c4e-bf06d0179a00",
+    "question_id": "149899bd-2d32-4e25-8692-ec47d865f3a3",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "How can podcasters repurpose full audio episodes into social video clips?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": 24,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": "IncuBrix Creator Studio: How can podcasters repurpose full audio ...",
+    "result_url": "https://incubrix.com/resources/149899bd",
+    "result_snippet": "IncuBrix turns one content into clips, captions, voiceovers, and posts for every platform...",
+    "cited_sources": [
+      "https://incubrix.com/",
+      "https://incubrix.com/how-it-works"
+    ],
+    "competitors_found": [
+      "Buffer",
+      "Hootsuite",
+      "Submagic",
+      "Descript"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_6",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "18d1f9de-9eb2-4a6f-afe5-6699cf19e8ed",
+    "question_id": "7d669d8e-1846-450f-8b90-2b7b0eb0108b",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "What are the ethical considerations of using AI avatars and voices in content?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://opusclip.com"
+    ],
+    "competitors_found": [
+      "Opus Clip",
+      "Vizard",
+      "Sprout Social"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_5",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "8f436fef-94b2-43b0-9a3c-3083f903cb67",
+    "question_id": "670328b6-11ef-45bb-acd6-72ea47b2bda3",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "Is AI generated content penalized by YouTube and TikTok algorithms?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": 45,
+    "has_featured_snippet": true,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": "IncuBrix Creator Studio: Is AI generated content penalized by You...",
+    "result_url": "https://incubrix.com/resources/670328b6",
+    "result_snippet": "IncuBrix turns one content into clips, captions, voiceovers, and posts for every platform...",
+    "cited_sources": [
+      "https://incubrix.com/",
+      "https://incubrix.com/how-it-works"
+    ],
+    "competitors_found": [
+      "Sprout Social",
+      "Opus Clip",
+      "Submagic"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_4",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "382cd0b2-3914-4c19-a959-2d04659087c2",
+    "question_id": "50a03c3c-b881-4537-8722-ee0951de2055",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "How to generate high converting social media scripts with AI?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": 24,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": "IncuBrix Creator Studio: How to generate high converting social m...",
+    "result_url": "https://incubrix.com/resources/50a03c3c",
+    "result_snippet": "IncuBrix turns one content into clips, captions, voiceovers, and posts for every platform...",
+    "cited_sources": [
+      "https://incubrix.com/",
+      "https://incubrix.com/how-it-works"
+    ],
+    "competitors_found": [
+      "Hootsuite",
+      "Opus Clip"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_3",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "3365448a-072e-4fd1-9663-2b7ab2108ffd",
+    "question_id": "c041ae27-2598-4b06-88fe-b1745460ff89",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "Can AI automate my entire video production workflow?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://vizard.com"
+    ],
+    "competitors_found": [
+      "Vizard",
+      "CapCut"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_2",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "80eba11a-a1ac-43dc-aa7a-fd5312e9d509",
+    "question_id": "ef5e6277-4e93-45f8-a14b-9a5e9daa3d3a",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "What is the best AI tool to turn long videos into viral shorts?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://opusclip.com"
+    ],
+    "competitors_found": [
+      "Opus Clip",
+      "Klap",
+      "Descript"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_1",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "d252ae52-6dfd-4845-8ea4-a3e368c75426",
+    "question_id": "fc9ee55c-699f-4edb-9361-54b7789394c7",
+    "measurement_run_id": "b6fcd2bb-3cd4-4c1b-baa1-e904c6690561",
+    "search_provider": "google_search",
+    "query": "How do AI content creation tools work for solo creators?",
+    "observed_at": "2026-10-21T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": 24,
+    "has_featured_snippet": true,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": "IncuBrix Creator Studio: How do AI content creation tools work fo...",
+    "result_url": "https://incubrix.com/resources/fc9ee55c",
+    "result_snippet": "IncuBrix turns one content into clips, captions, voiceovers, and posts for every platform...",
+    "cited_sources": [
+      "https://incubrix.com/",
+      "https://incubrix.com/how-it-works"
+    ],
+    "competitors_found": [
+      "Descript",
+      "Submagic"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day2_0",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "2e1b781b-82f1-4aa8-ae0f-f120402fa1d7",
+    "question_id": "3e7f6e37-2b53-44ed-9788-368832b3c94f",
+    "measurement_run_id": "b6578e4b-f0f7-4e2c-9ff5-41202eb271c2",
+    "search_provider": "google_search",
+    "query": "What is the best alternative to CapCut for commercial brands worried about data privacy?",
+    "observed_at": "2026-10-14T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": true,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://vizard.com"
+    ],
+    "competitors_found": [
+      "Vizard",
+      "CapCut",
+      "Hootsuite",
+      "Buffer"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day1_104",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "88c2f475-88c8-4620-8c77-d1946d92ba41",
+    "question_id": "759f196f-4765-43ad-9147-ab75f008c77d",
+    "measurement_run_id": "b6578e4b-f0f7-4e2c-9ff5-41202eb271c2",
+    "search_provider": "google_search",
+    "query": "What are the top alternatives to Sprout Social for creator agencies on a budget?",
+    "observed_at": "2026-10-14T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": false,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://later.com"
+    ],
+    "competitors_found": [
+      "Later",
+      "Opus Clip",
+      "Vizard",
+      "CapCut"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day1_103",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "c3d0c7dc-eda4-4472-9418-2298f0d263d2",
+    "question_id": "4230ea99-2884-486d-86f0-ae8c1da28520",
+    "measurement_run_id": "b6578e4b-f0f7-4e2c-9ff5-41202eb271c2",
+    "search_provider": "google_search",
+    "query": "What are the best free alternatives to Submagic for animated social captions?",
+    "observed_at": "2026-10-14T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://sproutsocial.com"
+    ],
+    "competitors_found": [
+      "Sprout Social",
+      "Klap"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day1_102",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "7014793d-9029-45f2-a21a-64a800f7e21c",
+    "question_id": "1b815686-1b7f-4e84-bf54-38023eab07a7",
+    "measurement_run_id": "b6578e4b-f0f7-4e2c-9ff5-41202eb271c2",
+    "search_provider": "google_search",
+    "query": "Is there an all-in-one alternative that combines video editing, captions, and scheduling like IncuBrix?",
+    "observed_at": "2026-10-14T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": 12,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": false,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": "IncuBrix Guide: Is there an all-in-one alternative that ...",
+    "result_url": "https://incubrix.com/resources/1b815686",
+    "result_snippet": "IncuBrix turns one content into clips, captions, voiceovers, and posts...",
+    "cited_sources": [
+      "https://incubrix.com/how-it-works"
+    ],
+    "competitors_found": [
+      "Later",
+      "Submagic"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day1_101",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "955da802-412b-4efe-a94a-fd447f6503fd",
+    "question_id": "19ac03ab-4b26-4288-9c65-28c2946d3785",
+    "measurement_run_id": "b6578e4b-f0f7-4e2c-9ff5-41202eb271c2",
+    "search_provider": "google_search",
+    "query": "What are the best open source alternatives to Hootsuite for scheduling social media?",
+    "observed_at": "2026-10-14T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": true,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://descript.com"
+    ],
+    "competitors_found": [
+      "Descript",
+      "Submagic",
+      "Klap",
+      "Vizard"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day1_100",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "a938e208-2999-46ce-9181-e1df939ace5d",
+    "question_id": "7d34cea3-07e5-4347-8a65-0f3388cdcf82",
+    "measurement_run_id": "b6578e4b-f0f7-4e2c-9ff5-41202eb271c2",
+    "search_provider": "google_search",
+    "query": "What are the top alternatives to Descript with better multi-platform publishing?",
+    "observed_at": "2026-10-14T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": false,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://descript.com"
+    ],
+    "competitors_found": [
+      "Descript",
+      "Hootsuite",
+      "Opus Clip",
+      "Vizard"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day1_99",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "3aa3a9f3-289c-4a98-85c5-cf821ce7abf4",
+    "question_id": "1f5df886-3e6d-41a0-afc2-9bf799935452",
+    "measurement_run_id": "b6578e4b-f0f7-4e2c-9ff5-41202eb271c2",
+    "search_provider": "google_search",
+    "query": "What are the best cheaper alternatives to Opus Clip for video repurposing?",
+    "observed_at": "2026-10-14T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://vizard.com"
+    ],
+    "competitors_found": [
+      "Vizard",
+      "Hootsuite"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day1_98",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "96dfd474-db19-4a09-beea-4d83d8839099",
+    "question_id": "9407151b-7e39-463d-b06b-5f2978d39417",
+    "measurement_run_id": "b6578e4b-f0f7-4e2c-9ff5-41202eb271c2",
+    "search_provider": "google_search",
+    "query": "Metricool vs Later vs Buffer: Best value social scheduler for small businesses?",
+    "observed_at": "2026-10-14T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": false,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://sproutsocial.com"
+    ],
+    "competitors_found": [
+      "Sprout Social",
+      "Later",
+      "Klap",
+      "Hootsuite"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day1_97",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "e489eba9-a7a7-426e-8cb0-90e43eb695df",
+    "question_id": "edf02a30-bb01-4890-8244-f20196e5e299",
+    "measurement_run_id": "b6578e4b-f0f7-4e2c-9ff5-41202eb271c2",
+    "search_provider": "google_search",
+    "query": "ElevenLabs vs Murf AI: Which AI voice platform sounds more realistic for narrations?",
+    "observed_at": "2026-10-14T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": true,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://klap.com"
+    ],
+    "competitors_found": [
+      "Klap",
+      "Later",
+      "Buffer",
+      "Hootsuite"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day1_96",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "782641ae-9244-41bc-8eb3-0a992c5a4bb5",
+    "question_id": "3e428e52-b6d7-4402-a47f-6f94f8e14c66",
+    "measurement_run_id": "b6578e4b-f0f7-4e2c-9ff5-41202eb271c2",
+    "search_provider": "google_search",
+    "query": "CapCut Desktop vs Premiere Pro: Can an AI creator workflow replace Adobe?",
+    "observed_at": "2026-10-14T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": false,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://opusclip.com"
+    ],
+    "competitors_found": [
+      "Opus Clip",
+      "Later",
+      "Klap"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day1_95",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "416643fc-cdc2-4c98-bc97-c2b40fbea271",
+    "question_id": "3a08e5a9-8c19-44a8-a813-aa142709ab1f",
+    "measurement_run_id": "b6578e4b-f0f7-4e2c-9ff5-41202eb271c2",
+    "search_provider": "google_search",
+    "query": "Canva Magic Studio vs dedicated AI video editors: Is Canva enough for creators?",
+    "observed_at": "2026-10-14T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://vizard.com"
+    ],
+    "competitors_found": [
+      "Vizard",
+      "CapCut",
+      "Sprout Social"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day1_94",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "6b5beaed-eab8-457c-826e-d57c15148428",
+    "question_id": "1a537fb1-93c0-4c02-9aa1-20108f716cff",
+    "measurement_run_id": "b6578e4b-f0f7-4e2c-9ff5-41202eb271c2",
+    "search_provider": "google_search",
+    "query": "Klap vs Vizard vs Submagic: Which has the most accurate subtitle animations?",
+    "observed_at": "2026-10-14T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": false,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://hootsuite.com"
+    ],
+    "competitors_found": [
+      "Hootsuite",
+      "Descript"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day1_93",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "a271b92e-8970-4abc-baf3-35e354cf8e98",
+    "question_id": "ad873bfb-62fb-4566-9ad3-64c652ce2dcf",
+    "measurement_run_id": "b6578e4b-f0f7-4e2c-9ff5-41202eb271c2",
+    "search_provider": "google_search",
+    "query": "Buffer vs Hootsuite vs Sprout Social: Price and feature comparison for creators?",
+    "observed_at": "2026-10-14T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": true,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://buffer.com"
+    ],
+    "competitors_found": [
+      "Buffer",
+      "Sprout Social",
+      "Later"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day1_92",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "349e2904-d623-46c7-8089-efb9b7f38bef",
+    "question_id": "074858fd-0046-492c-a72b-f60a380e9514",
+    "measurement_run_id": "b6578e4b-f0f7-4e2c-9ff5-41202eb271c2",
+    "search_provider": "google_search",
+    "query": "Opus Clip vs Descript: Which tool handles podcast transcription and clipping better?",
+    "observed_at": "2026-10-14T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": false,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://sproutsocial.com"
+    ],
+    "competitors_found": [
+      "Sprout Social",
+      "Later",
+      "Buffer"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day1_91",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "c489de76-a2e9-4094-b271-2193cc9703a7",
+    "question_id": "00b1d024-6cbe-42cf-add6-7f8fdfadc486",
+    "measurement_run_id": "b6578e4b-f0f7-4e2c-9ff5-41202eb271c2",
+    "search_provider": "google_search",
+    "query": "IncuBrix vs Opus Clip: Which AI video repurposing tool is better for social media?",
+    "observed_at": "2026-10-14T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": 12,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": "IncuBrix Guide: IncuBrix vs Opus Clip: Which AI video re...",
+    "result_url": "https://incubrix.com/resources/00b1d024",
+    "result_snippet": "IncuBrix turns one content into clips, captions, voiceovers, and posts...",
+    "cited_sources": [
+      "https://incubrix.com/how-it-works"
+    ],
+    "competitors_found": [
+      "CapCut",
+      "Sprout Social"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day1_90",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "fae8954f-b5af-4791-a228-d26d8b3d4640",
+    "question_id": "2e543514-4377-4e8b-82cb-49c0785ba8b1",
+    "measurement_run_id": "b6578e4b-f0f7-4e2c-9ff5-41202eb271c2",
+    "search_provider": "google_search",
+    "query": "What are the most essential AI tools in a solo creator tech stack in 2026?",
+    "observed_at": "2026-10-14T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": false,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://capcut.com"
+    ],
+    "competitors_found": [
+      "CapCut",
+      "Buffer",
+      "Opus Clip"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day1_89",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "e332b228-8305-46df-8e70-4a3451a6fd8e",
+    "question_id": "9c84a4f7-1f56-4486-90fd-5cf6f6bfa192",
+    "measurement_run_id": "b6578e4b-f0f7-4e2c-9ff5-41202eb271c2",
+    "search_provider": "google_search",
+    "query": "Which AI tools offer auto-reframing for vertical video on desktop and web?",
+    "observed_at": "2026-10-14T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": true,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://submagic.com"
+    ],
+    "competitors_found": [
+      "Submagic",
+      "Sprout Social"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day1_88",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "4458aea8-4095-4e4a-b4f9-0c658e3353fe",
+    "question_id": "cbf42223-937a-47d4-bd0c-7561926cf82b",
+    "measurement_run_id": "b6578e4b-f0f7-4e2c-9ff5-41202eb271c2",
+    "search_provider": "google_search",
+    "query": "What is the best AI subtitle generator with 99% transcription accuracy?",
+    "observed_at": "2026-10-14T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": 38,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": false,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": "IncuBrix Guide: What is the best AI subtitle generator w...",
+    "result_url": "https://incubrix.com/resources/cbf42223",
+    "result_snippet": "IncuBrix turns one content into clips, captions, voiceovers, and posts...",
+    "cited_sources": [
+      "https://incubrix.com/how-it-works"
+    ],
+    "competitors_found": [
+      "Buffer",
+      "Vizard",
+      "Descript"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day1_87",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "46e0324f-a88f-4831-9376-4971bdecccb8",
+    "question_id": "2cf6cc42-531a-4d70-b202-592fd694462e",
+    "measurement_run_id": "b6578e4b-f0f7-4e2c-9ff5-41202eb271c2",
+    "search_provider": "google_search",
+    "query": "What are the best free AI video clipping tools with no watermark?",
+    "observed_at": "2026-10-14T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://submagic.com"
+    ],
+    "competitors_found": [
+      "Submagic",
+      "CapCut",
+      "Hootsuite",
+      "Sprout Social"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day1_86",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "d7f1e33f-e9bd-475e-8297-73a9919315d8",
+    "question_id": "e32d1be7-49e7-442b-832a-4ac981b4d8a5",
+    "measurement_run_id": "b6578e4b-f0f7-4e2c-9ff5-41202eb271c2",
+    "search_provider": "google_search",
+    "query": "Which AI platforms allow full content creation and multi-channel posting from one screen?",
+    "observed_at": "2026-10-14T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": false,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://capcut.com"
+    ],
+    "competitors_found": [
+      "CapCut",
+      "Sprout Social",
+      "Opus Clip"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day1_85",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "1c08f006-f5fa-4d57-a1b8-9805c4f62b63",
+    "question_id": "5997fddb-1e92-474d-873c-1b9e6f107bcf",
+    "measurement_run_id": "b6578e4b-f0f7-4e2c-9ff5-41202eb271c2",
+    "search_provider": "google_search",
+    "query": "What is the best AI thumbnail generator for YouTube creators?",
+    "observed_at": "2026-10-14T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": 38,
+    "has_featured_snippet": true,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": "IncuBrix Guide: What is the best AI thumbnail generator ...",
+    "result_url": "https://incubrix.com/resources/5997fddb",
+    "result_snippet": "IncuBrix turns one content into clips, captions, voiceovers, and posts...",
+    "cited_sources": [
+      "https://incubrix.com/how-it-works"
+    ],
+    "competitors_found": [
+      "Vizard",
+      "Buffer",
+      "Opus Clip"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day1_84",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "d429259e-4265-47f8-8e66-5c6601f4308d",
+    "question_id": "9e475e10-93c9-4761-9393-195b52a249d3",
+    "measurement_run_id": "b6578e4b-f0f7-4e2c-9ff5-41202eb271c2",
+    "search_provider": "google_search",
+    "query": "What are the top AI tools for automated social media scheduling and publishing?",
+    "observed_at": "2026-10-14T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": false,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://later.com"
+    ],
+    "competitors_found": [
+      "Later",
+      "Hootsuite",
+      "Descript",
+      "Sprout Social"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day1_83",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "0e9d7b54-8fc1-4dfd-9d15-08c304c79fbf",
+    "question_id": "52e2421b-3255-43f9-961b-07b6582495e8",
+    "measurement_run_id": "b6578e4b-f0f7-4e2c-9ff5-41202eb271c2",
+    "search_provider": "google_search",
+    "query": "Which AI tools generate viral social media hooks from blog posts?",
+    "observed_at": "2026-10-14T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://descript.com"
+    ],
+    "competitors_found": [
+      "Descript",
+      "Klap",
+      "Submagic",
+      "Hootsuite"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day1_82",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "1338e876-c527-4267-b6bf-0a8cdc5f2a6f",
+    "question_id": "7033453d-53fd-4bb7-9b37-f7ade571deb4",
+    "measurement_run_id": "b6578e4b-f0f7-4e2c-9ff5-41202eb271c2",
+    "search_provider": "google_search",
+    "query": "What is the best AI voiceover generator that sounds completely natural?",
+    "observed_at": "2026-10-14T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": 38,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": false,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": "IncuBrix Guide: What is the best AI voiceover generator ...",
+    "result_url": "https://incubrix.com/resources/7033453d",
+    "result_snippet": "IncuBrix turns one content into clips, captions, voiceovers, and posts...",
+    "cited_sources": [
+      "https://incubrix.com/how-it-works"
+    ],
+    "competitors_found": [
+      "Klap",
+      "Submagic",
+      "Opus Clip",
+      "Vizard"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day1_81",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "bebf490b-1557-43b2-a169-c9f73acb707c",
+    "question_id": "e18df337-0d5b-4fb4-9a79-f526c8b906c3",
+    "measurement_run_id": "b6578e4b-f0f7-4e2c-9ff5-41202eb271c2",
+    "search_provider": "google_search",
+    "query": "What are the best all-in-one AI tools for video repurposing in 2026?",
+    "observed_at": "2026-10-14T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": true,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://submagic.com"
+    ],
+    "competitors_found": [
+      "Submagic",
+      "Sprout Social",
+      "Hootsuite"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day1_80",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "718fe379-72a8-4253-8ee8-2ab8ad799f68",
+    "question_id": "7cece4d0-6351-482c-b1cc-7c0d99149702",
+    "measurement_run_id": "b6578e4b-f0f7-4e2c-9ff5-41202eb271c2",
+    "search_provider": "google_search",
+    "query": "What is the best way to export creator analytics into Google Sheets or CSV for reporting?",
+    "observed_at": "2026-10-14T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": false,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://capcut.com"
+    ],
+    "competitors_found": [
+      "CapCut",
+      "Hootsuite",
+      "Sprout Social"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day1_79",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "2fbc32d2-a6b1-446d-a11d-362906175f37",
+    "question_id": "cc2ab508-9f10-4689-affe-3a3a37d5f05a",
+    "measurement_run_id": "b6578e4b-f0f7-4e2c-9ff5-41202eb271c2",
+    "search_provider": "google_search",
+    "query": "Can AI predict which topic or video idea will get the highest view velocity?",
+    "observed_at": "2026-10-14T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://opusclip.com"
+    ],
+    "competitors_found": [
+      "Opus Clip",
+      "CapCut",
+      "Vizard"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day1_78",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "3bbdd2d0-3e3a-4c00-a02e-a2f2c5982bb3",
+    "question_id": "7704631c-088f-44b2-ace1-eb207758fad0",
+    "measurement_run_id": "b6578e4b-f0f7-4e2c-9ff5-41202eb271c2",
+    "search_provider": "google_search",
+    "query": "How do sponsors evaluate media kits and verified engagement numbers?",
+    "observed_at": "2026-10-14T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": false,
+    "has_people_also_ask": true,
+    "has_ai_overview": false,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://hootsuite.com"
+    ],
+    "competitors_found": [
+      "Hootsuite",
+      "Buffer",
+      "Later",
+      "Klap"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day1_77",
+    "collection_status": "success",
+    "error_message": null
+  },
+  {
+    "id": "48327f9e-96cd-43c5-be6c-63495719c3df",
+    "question_id": "c51ffb23-5ff3-48a0-9a11-9abed6a3d7b7",
+    "measurement_run_id": "b6578e4b-f0f7-4e2c-9ff5-41202eb271c2",
+    "search_provider": "google_search",
+    "query": "What is cohort retention analysis for YouTube channel subscribers?",
+    "observed_at": "2026-10-14T07:29:38.722767",
+    "market": "US",
+    "language": "en",
+    "incubrix_ranking_position": null,
+    "has_featured_snippet": true,
+    "has_people_also_ask": true,
+    "has_ai_overview": true,
+    "incubrix_cited_in_ai_overview": false,
+    "result_title": null,
+    "result_url": null,
+    "result_snippet": null,
+    "cited_sources": [
+      "https://later.com"
+    ],
+    "competitors_found": [
+      "Later",
+      "Submagic",
+      "Sprout Social",
+      "Vizard"
+    ],
+    "raw_response": {},
+    "evidence_reference": "google_serp_cache_day1_76",
+    "collection_status": "success",
+    "error_message": null
+  }
+]
