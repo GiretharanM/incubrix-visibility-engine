@@ -3,13 +3,13 @@
 > **Assessment Submission**: Growth Engineer Assessment — Option 3: AEO, SEO & GEO Visibility Engine  
 > **Target Website**: [https://incubrix.com](https://incubrix.com)  
 > **Status**: Complete, Fully Functional End-to-End Application  
-> **🌐 Live Hosted Website (GitHub Pages)**: [https://giretharanm.github.io/incubrix-visibility-engine/](https://giretharanm.github.io/incubrix-visibility-engine/)  
-> **📦 Official Submission Workbook**: [`submission/workbook/submission_workbook.xlsx`](submission/workbook/submission_workbook.xlsx)  
+> **Live Hosted Website (GitHub Pages)**: [https://giretharanm.github.io/incubrix-visibility-engine/](https://giretharanm.github.io/incubrix-visibility-engine/)  
+> ** Official Submission Workbook**: [`submission/workbook/submission_workbook.xlsx`](submission/workbook/submission_workbook.xlsx)  
 
 
 ---
 
-## 🌟 Executive Overview
+## Executive Overview
 
 The **IncuBrix AEO, SEO & GEO Visibility Engine** is an enterprise-grade full-stack visibility intelligence platform designed specifically for IncuBrix. It enables growth engineers and marketing teams to:
 
@@ -24,7 +24,7 @@ The **IncuBrix AEO, SEO & GEO Visibility Engine** is an enterprise-grade full-st
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 | Layer | Technologies |
 |---|---|
@@ -37,7 +37,7 @@ The **IncuBrix AEO, SEO & GEO Visibility Engine** is an enterprise-grade full-st
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 incubrix-visibility-engine/
@@ -80,7 +80,7 @@ incubrix-visibility-engine/
 
 ---
 
-## 🚀 Quickstart Guide
+##  Quickstart Guide
 
 ### Run Live Demonstration in 30 Seconds
 ```bash
@@ -151,7 +151,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser. API request
 
 ---
 
-## 🧪 Running Automated Tests
+##  Running Automated Tests
 
 Run the complete automated test suite (19 test modules covering question CRUD, duplicate detection, CSV import, search adapters, AI mention classification, metrics, SSRF security, technical audit, content generation, version increments, measurement runs, failure resilience, and exports):
 
@@ -185,7 +185,7 @@ tests/test_workflows.py::test_settings_endpoint PASSED
 
 ---
 
-## 📊 The 14 User Interface Pages
+##  The 14 User Interface Pages
 
 1. **Overview Dashboard (`/`)**: Real-time KPI metric cards, Google ranking distribution chart, multi-day historical trend chart, AI provider breakdown table, and competitor share of voice bars.
 2. **Question Research (`/questions`)**: 105 verified creator queries across 11 topics, full-text search, CSV import with duplicate detection, manual question creation modal, and export.
@@ -204,7 +204,7 @@ tests/test_workflows.py::test_settings_endpoint PASSED
 
 ---
 
-## 🔒 Security & SSRF Protection
+##  Security & SSRF Protection
 
 - **Zero Hardcoded Secrets**: All API keys are loaded via environment variables; fallback simulators operate safely when keys are not configured.
 - **SSRF Prevention**: The URL crawler strictly validates protocols (`http`/`https`) and blocks private IP spaces (`127.0.0.1`, `10.0.0.0/8`, `192.168.0.0/16`, `169.254.169.254`, and cloud metadata endpoints) while permitting standard NAT64 translation.
